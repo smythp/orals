@@ -3,6 +3,6 @@
 
 ### [Victorian Science and Detection](viclist.org)
 
-### Utopian Studies
+### [Utopian Studies](utopian.org)
 
 ### Early Modern
