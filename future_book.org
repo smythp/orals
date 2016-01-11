@@ -1,0 +1,33 @@
+* Books
+** Adrian Johns. /The Nature of the Book: Print and Knowledge in the Making./ (1998)
+** Benkler, Y. /The Wealth of Networks: How Social Production Transforms Markets and Freedom./ (2006)
+** Bogost, Ian. /Persuasive Games./ (2010)
+** Bolter, David J. /Writing Space: Computers, Hypertext, and the History of Writing./ (2001)
+** Chartier, Roger. /Forms and Meanings: Texts, Performances, and Audiences from Codex to Computer./ (1995)
+** Dexter, Scott and Samir Chopra.  /Decoding Liberation Software: The Promise of Free and Open Source Software./ (2007)
+** Doctorow, C. /Content: Selected essays on technology, creativity, copyright, and the future of the future./ (2008)
+** Emerson, Lori. /Reading Writing Interfaces: From the Digital to the Bookbound./ (2014)
+** Flusser, Vilem. /Does Writing Have a Future?/ (2011)
+** Franco Moretti. /Graphs, Maps, Trees: Abstract Models for a Literary History./ (2005)
+** Galloway, Alexander. /Protocol: How Control Exists after Decentralization./ (2004)
+** Genette, G. /Paratexts: Thresholds of interpretation./. (1997)
+** Gold, Matthew K. /(Ed). Debates in the Digital Humanities./ (2012)
+** Greetham, David. /Textual Scholarship: An Introduction./ (1994)
+** James Gleick. /The Information: A History, A Theory, A Flood./ (2011)
+** Jones, Steve. / Emergence of Digital Humanities./ (2013)
+** Kelty, Christopher./Two Bits: The Cultural Significance of Free Software./(2008)
+** Lessig, Lawrence. /Remix: Making Commerce Thrive in the Hybrid Economy./ (2008)
+** Lisa Gitelman, /Paper Knowledge: Toward a Media History of Documents./ (2014)
+** Marshall McLuhan. /The Gutenberg Galaxy./ (1962)
+** Matthew Kirschenbaum. /Mechanisms: New Media and the Forensic Imagination./ (2008)
+** McKenzie, D. F. /Bibliography and the Sociology of Texts./ (1999)
+** Michel Foucault, /The Archaeology of Knowledge./ (1969) 
+** Stallman, Richard. /Free Software Free Society./ (2009)
+** Stephen Ramsay. /Reading Machines: Toward an Algorithmic Criticism./ (2011)
+** Walter Ong, /Orality and Literacy: The Technologizing of the Word./ (1982)
+** Wendy Hui Kyong Chun. /Programmed Visions: Software and Memory./ (2011)
+** Wolfgang Ernst. (Ed.) /Digital Memory and the Archive./ (2012)
+* Articles
+** Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction."
+** Siemens, R., Timney, M., Leitch, C., Koolen, C., & Garnett, A. (2012). /Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media.". Literary and Linguistic Computing, 27(4). Retrieved January 14, 2014, from http://web.uvic.ca/~siemens/pub/2011-SocialEdition.pdf 
+
