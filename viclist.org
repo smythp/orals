@@ -1,7 +1,5 @@
-#+TITLE: Victorian Orals List
+#+TITLE: Victorian Science List
 #+OPTIONS: num:nil 
-
-*** Victorian Science List
 
 **** Alioto, Anthony. /A History of Western Science/. (1992)
 **** Altick, Richard. /Deadly encounters: Two Victorian Sensations./ (1986)
