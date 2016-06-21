@@ -9,10 +9,9 @@
 **** Emerson, Lori. /Reading Writing Interfaces: From the Digital to the Bookbound./ (2014)
 **** Flusser, Vilem. /Does Writing Have a Future?/ (2011)
 **** Franco Moretti. /Graphs, Maps, Trees: Abstract Models for a Literary History./ (2005)
-**** Galloway, Alexander. /Protocol: How Control Exists after Decentralization./ (2004)
 **** Genette, G. /Paratexts: Thresholds of interpretation./. (1997)
 **** Gold, Matthew K. /(Ed). Debates in the Digital Humanities./ (2012)
-**** Greetham, David. /Textual Scholarship: An Introduction./ (1994)
+**** Greetham, David. /Theories of the Text./ (1994)
 **** James Gleick. /The Information: A History, A Theory, A Flood./ (2011)
 **** Jones, Steve. / Emergence of Digital Humanities./ (2013)
 **** Kelty, Christopher./Two Bits: The Cultural Significance of Free Software./(2008)
@@ -25,30 +24,18 @@
 **** Stallman, Richard. /Free Software Free Society./ (2009)
 **** Stephen Ramsay. /Reading Machines: Toward an Algorithmic Criticism./ (2011)
 **** Walter Ong, /Orality and Literacy: The Technologizing of the Word./ (1982)
-**** Wendy Hui Kyong Chun. /Programmed Visions: Software and Memory./ (2011)
 **** Wolfgang Ernst. (Ed.) /Digital Memory and the Archive./ (2012)
 ** Articles
 **** Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction."
 **** Siemens, R., Timney, M., Leitch, C., Koolen, C., & Garnett, A. (2012). /Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media.". Literary and Linguistic Computing, 27(4). Retrieved January 14, 2014, from http://web.uvic.ca/~siemens/pub/2011-SocialEdition.pdf 
 
 
-
-** To add
-**** McGann > Textual Condition?, radient textuality?
-**** Kathleen Fitzpatrick > Planned Obselescence
-**** Theories of the Text by Greetham
-**** Think bout putting on a Derrida
-**** Add Darnton?
-**** Any other seminal textual studies books
-**** Add a Drucker > DHQ article?
-**** Add a Ted Underwood?z
-**** Add comparative textual media
-**** Add media theory by Kitler
-**** Add Andrew Piper > print to digital stuff (Book Was There)
-
-
-
-**** Remove Wendy Chun book?
-**** Remove Galloway ook?
-
+**** McGann, Jerome. /Radient Textuality./ (2004)
+**** Fitzpatrick, Kathleen. /Planned Obselescence./ (2011)
+**** Darnton, Robert. /The Case for Books: Past, Present, and Future./ (2009)
+**** Drucker, Johanna. "Data as Capta," DHQ (2011)
+**** Underwood, Ted. The Literary Uses of High-Dimensional Space." (2015)
+****  Hayles, Katherine N. and Jessica Pressman, Editors /Comparative Textual Media./ (2013)
+**** Kitler, Friedrich., /Literature, Media, Information Systems/ (1997)
+**** Piper, Andrew. /Book Was There: Reading in Electronic./ (2013 reprint)
 
