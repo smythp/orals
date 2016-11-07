@@ -1,5 +1,7 @@
+
 ** Books
 **** Adrian Johns. /The Nature of the Book: Print and Knowledge in the Making./ (1998)
+**** Austin, J. L. /How to Do Things with Words/. (1955)
 **** Benkler, Y. /The Wealth of Networks: How Social Production Transforms Markets and Freedom./ (2006)
 **** Bolter, David J. /Writing Space: Computers, Hypertext, and the History of Writing./ (2001)
 **** Chartier, Roger. /Forms and Meanings: Texts, Performances, and Audiences from Codex to Computer./ (1995)
@@ -22,9 +24,12 @@
 **** Lisa Gitelman, /Paper Knowledge: Toward a Media History of Documents./ (2014)
 **** Marshall McLuhan. /The Gutenberg Galaxy./ (1962)
 **** Matthew Kirschenbaum. /Mechanisms: New Media and the Forensic Imagination./ (2008)
+**** Matthew Kirschenbaum. /Track Changes: A Literary History of Word Processing/. (2016)
+
 **** McGann, Jerome. /Radient Textuality./ (2004)
 **** McKenzie, D. F. /Bibliography and the Sociology of Texts./ (1999)
 **** Michel Foucault, /The Archaeology of Knowledge./ (1969) 
+**** Nelson, Ted. /Computer Lib/Dream Machines./ (1974)
 **** Piper, Andrew. /Book Was There: Reading in Electronic./ (2013 reprint)
 **** Stallman, Richard. /Free Software Free Society./ (2009)
 **** Stephen Ramsay. /Reading Machines: Toward an Algorithmic Criticism./ (2011)
