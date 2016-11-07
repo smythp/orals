@@ -1,43 +1,45 @@
 #+TITLE: Utopian Studies Orals List
 #+OPTIONS: num:nil 
 
-** Utopian Studies list
-** Books:
-*** Baccolini, Raffaella. /Dark Horizons./
-*** Bloch, Ernst. /The Principle of Hope./
-*** Bould, Mark and China Miéville. /Red Planets: Marxism and Science Fiction./
-*** Davis, J.C. /Utopia and the Ideal Society: A Study of English Utopian Writing 1516-1700./
-*** Davis, Laurence. /Anarchism and Utopianism. ./
-*** Hardt, Michael. /Commonwealth./
-*** Hertzler, Joyce. /History of Utopian Thought./
-*** Jameson, Frederic. /Archologies of the Future./
-*** Kumar, Krishan. /Utopia and Anti-Utopia in Modern Times../
-*** McBride, Keally. /Collective Dreams: Political Imagination and Community. ./
-*** Morton, Timothy/Ecology Without Nature: Rethinking Environmental Aesthetics ./
-*** Moylan, Tom. /Scraps of the Untainted Sky./
-*** Nassa, Anthony. ./The Spirit of Utopia/
-*** Pordzik, Ralph. /The Quest for the Postcolonial Utopia./
-*** Sarovic, Aleksandar. /Humanism./
-***  Schaer, Roland, Gregory Claeys, and Lyman Tower Sargent. /Utopia: The Search for the Ideal Society in the Western World./ 
+* Utopian Studies
+Baccolini, Raffaella. /Dark Horizons./
+Bacon, Francis. /New Atlantis./
+Bloch, Ernst. /The Principle of Hope./
+Bould, Mark and China Miéville. /Red Planets: Marxism and Science Fiction./
+Davis, J.C. /Utopia and the Ideal Society: A Study of English Utopian Writing 1516-1700./
+Davis, Laurence. /Anarchism and Utopianism. ./
+Edelman, Lee. /No Future: Queer Theory and the Death Drive/
+Hardt, Michael, and Antonio Negri. /Empire./
+Harvey, David. /Spaces of Hope./
+Hertzler, Joyce. /History of Utopian Thought./
+Jameson, Frederic. /Archologies of the Future./
+Kumar, Krishan. /Utopia and Anti-Utopia in Modern Times../
+Lavander, Isiah./Race in American Science Fiction./
+London, Jack. /The Iron Heel./
+McBride, Keally. /Collective Dreams: Political Imagination and Community. ./
+More, Thomas. /Utopia./
+Morton, Timothy/Ecology Without Nature: Rethinking Environmental Aesthetics ./
+Moylan, Tom. /Scraps of the Untainted Sky./
+Nassa, Anthony. ./The Spirit of Utopia/
+Piercy, Marge. /Woman at the Edge of TIme./
+Pordzik, Ralph. /The Quest for the Postcolonial Utopia./
+Roberts, Adam. /New Critical Idiom./
+Sargent, Lyman Tower. /Three Faces of Utopianism Revisited/
+Schaer, Roland, Gregory Claeys, and Lyman Tower Sargent. /Utopia: The Search for the Ideal Society in the Western World./ 
+Stross, Charles. /Accelerando./
+Suvin, Darko. /Metamorphoses of Science Fiction./
+Swift, Jonathan. /Gulliver's Travels./
 
 #### got this far
 
-*** Tom Moylan. /Demand the Impossible: Science Fiction and the Utopian Imagination./
-*** Williams, Raymond. /Tenses of Imagination./
+Tom Moylan. /Demand the Impossible: Science Fiction and the Utopian Imagination./
+Williams, Raymond. /Tenses of Imagination./
 
-*** Csicnary Seven Beauties of Science Fiction
-*** Cruising Utopia.
-
+William, Morris. /News from Nowhere./
 
 
-***** only need landmark essay on the 
-**** Harvey, David. /Spaces of Hope./
-**** Roberts, Adam. /New Critical Idiom./
-**** Lavander, Isiah./Race in American Science Fiction./
-**** Heart and Negri instead of Commonwealth?
 
-** Articles
-*** David, Laurence. “Morris, Wilder, and Le Guin on Art, Work, and ."
 
-** Articles by Lyman Tower Sargent
-** Works by and about Edward Bellamy and American Utopian Literature Kopp, James J. 
+
+
+

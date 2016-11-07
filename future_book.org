@@ -13,7 +13,7 @@
 **** Genette, G. /Paratexts: Thresholds of interpretation./. (1997)
 **** Gold, Matthew K. /(Ed). Debates in the Digital Humanities./ (2012)
 **** Greetham, David. /Theories of the Text./ (1994)
-****  Hayles, Katherine N. and Jessica Pressman, Editors /Comparative Textual Media./ (2013)
+**** Hayles, Katherine N. and Jessica Pressman, Editors /Comparative Textual Media./ (2013)
 **** James Gleick. /The Information: A History, A Theory, A Flood./ (2011)
 **** Jones, Steve. /Emergence of Digital Humanities./ (2013)
 **** Kelty, Christopher./Two Bits: The Cultural Significance of Free Software./(2008)

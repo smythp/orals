@@ -1,7 +1,3 @@
-** mechanisms
-mechanism is both process and product
-seems to be suggesting a close reading of technologies and artifacts
-
 ** literature, media, information systems (kitler)
 in the age of computers, all information/media is interchangable; video, text, etc are just shallow choices on how to display
 
@@ -26,13 +22,60 @@ notions of what an author is and how they are read are always histoically determ
 **** Walter Ong, /Orality and Literacy: The Technologizing of the Word./ (1982)
 **** Wolfgang Ernst. (Ed.) /Digital Memory and the Archive./ (2012)
 
+** mechanisms
+mechanism is both process and product
+seems to be suggesting a close reading of technologies and artifacts
 
-** Articles
-**** Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction."
-**** Drucker, Johanna. "Data as Capta," DHQ (2011)
-**** Siemens, R., Timney, M., Leitch, C., Koolen, C., & Garnett, A. (2012). /Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media.". Literary and Linguistic Computing, 27(4). Retrieved January 14, 2014, from http://web.uvic.ca/~siemens/pub/2011-SocialEdition.pdf 
-**** Underwood, Ted. The Literary Uses of High-Dimensional Space." (2015)
+** materiality
+forensic matreialty (from applied field of computer forensics)
+formal materiality (manipulate symbols, not atoms)
 
+not just distinctions between hardware and software, esp. because line is blurring between those
 
+alleographic vs autographic
+alleographics = reproducable
+autographic = reproduction betrays ontology/nature of work
+
+** case studies
+agrippa (william gibson)
+
+** comparative textual media (hales and jessica pressman)
+materially-oriented approach
+exploring alternative pratices
+functions at different scales, tries to be a framework that works in many different environment
+*** interesting
+"big humanities"
+*** follow up
+tree of codes
+only revolutions
+
+* speech
+Pick up a modern book. This one will do: the one you are looking at right now.
+
+* talk with matt
 add new matt kirsxhenvaum book
+* areas:
+book history/bibliography (technological determinism)
+early hypertext theory (boulter, benkler, mcgann)
+text
+interfaces/platforms (emerson, textual media)
+books and freedom
+
+talk about the levels on which we engage with books
+
+- as object
+- as social construct
+
+text
+- text as locus of interpretation ("There is nothing outside of the text." Derrida)
+- text as encoded data, the subject of computation (Moretti, Jockers)
+- text as object 
+
+
+positivism in bibliography
+
+- relate to positivism in digital humanities[[file:~/1][file:~/1]]
+
+
+
 
