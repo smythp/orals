@@ -89,7 +89,7 @@ nowadays business and commerce circulate in a algorithmic form that is indistrin
 
 fundamental thesis: "sometimes the details really do matter" and "this is an option Dickens did not have"
 
-** Perfect
+*** Perfect
 the word perfect describes the aspirations of word processing. it describes the sense of producing an absolutely finished product and the desire for efficiency and productivity
 
 writing is never "off the grid." it is always a power technology--it encodes power, is able to project language across space and time
@@ -99,8 +99,23 @@ To write Baroque cycle, Stephenson first used longhand, then Emacs, then wrote a
 great passage from Franzen about having to open his computer and stick a pencil in to stop an annoying whine
 - Kirschenbaum: "No virtual realities here, only the minute torques and tolerances of the everyday: relative humidity, rubber bands, and stripped screws, their shavings of low-grade steel no doubt collecting somewhere inside the burlesque cavity of the machine’s exposed innards."
 - sometimes the details really do matter
+*** sci fi writers = early adopters
 
+Douglas Adas
+- early adopter of word processing and early computers
+- collaborated with infocom on hitchhiker's guide interactive fiction
+- bucked trend of iagining computers being conduits for AI and isntead iagined the hitchhiker's guide, which is essentially an ebook
 
+jack vance
+- early adopter of accessibile technologies, used speech snythesizer and large font due to deteriorating eyesight
+
+William Gibson
+- couldn't afford a typewriter for neuromancer
+- imagined cyberspace, a consentual hallucination
+- his ignorance of computers was actually an asset in imagining cyberspace, allowed him to romanticize the computer
+- collaborated with Sterling on The Difference Engline, used word processing to fully collaborate
+
+"it's not the scientists but the word people that have taken them (computers) up"
 
 ** Writing Spaces (David Bolter)
 letter press the first word "processor"
