@@ -1,4 +1,26 @@
+* questions
+** How does the concept of aura apply (or not apply) in an age of digital, rather than mechanical,  reproduction?
+Think about Kitler and the interchangability/fluidity of the digital
+Do networks have aura?
+With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
+Does vinyl have aura?
+** Some of the writers on the list (Kirschenbaum, Kitler) combine technical rigor with a humanistic sensibility. Others are more focused on one domain or the other (Moretti, etc). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile techical detail and experiential or cultural understanding?
+seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
+
+** How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
+
+** How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
+Chartier reminds us that all writing has a material component, as does Pipes
+** How important are distinctions between data and process (von Neuman architecture, J. L. Austin's /How to Do Things with Words/) Think about ebooks, games. Do these thigns exist without a human subject? Think also about object-oriented ontology (and state/method from object oriented programming)
+* book notes
 ** literature, media, information systems (kitler)
+*** intro
+applies information theory (claude shannon) to new media questions
+
+makes discourse analysis "high tech"
+
+uses post-structuralist ideas, suggesting that technology was itself the blind spot of structuralism
+
 in the age of computers, all information/media is interchangable; video, text, etc are just shallow choices on how to display
 
 kitler uses example of airplane, in which the reality (inhospitable environment, complex flight systems) is hidden from users by friendly distractions
@@ -21,6 +43,48 @@ notions of what an author is and how they are read are always histoically determ
 **** Stephen Ramsay. /Reading Machines: Toward an Algorithmic Criticism./ (2011)
 **** Walter Ong, /Orality and Literacy: The Technologizing of the Word./ (1982)
 **** Wolfgang Ernst. (Ed.) /Digital Memory and the Archive./ (2012)
+
+*** Gramaphone, Film, Typewriter
+Suggests that optical fiber networks are coming because they are the pentagon's hedge against the atomic bomb (weird)
+
+Digitalization (sic) has made it so that voice and text have become mere effects on the surface or an interface for the consumer
+- senses are "mere glitter"
+
+what ended in bits began with writing
+- writing is fundamentally a digital medium, it's a form of encoding
+
+Chris Marker (film maker) writes: "They have put themselves in the place of my memory, they are my memory. I ask myself how people remember if they do not make movies, or photographs, or tapes, how mankind used to go about remembering"
+
+notes some elegant distinctions about turing
+- turing's handwriting sucked, and he imagined inventing a typewriter
+- instead, he invents the computer, and his model is based on a ribbion, i.e. a string of editable instructions
+*** dracula chapter
+
+“We are bringing the plague, and they don’t even know it,” said Freud to Jung, as their ship moved into New York harbor. “This was the being I was helping to transfer to London, where, perhaps, for centuries to come he might, amongst its teeming millions, satiate his lust for blood, and create a new and ever-widening circle of semidemons” (52)
+
+Kitler reads Dracula as a story of encoding
+- blood is encoded and transmitted (two "bites" are passed on)
+- stenography and typewriting features prominently
+
+women have a choice: typewriter or vampirism
+
+his larger theory is essentially that wars of the future are fought with information. Dracula is about a war of information, vampirism is communicated and the cure is the spread of textual information through mechanical means (stenography, typewriter)
+
+Dracula is provintial, the hunters are democratic, cosmopolitan
+
+** writing spaces (David Bolter)
+letter press the first word "processor"
+
+technology comes from tekne, which is Greek for art or craft, so we should think of technology more broadly
+- in /Phaedrus/, the alphabet is considered a tekne
+
+literacy is realizing that language has a visual and not just an auditory or oral dimension
+- in literary culture, writing is a part of our spoken communication, it affects how we speak, can use both colloquial and literary terms
+
+computers are tangible objects, and thus are not excluded from materiality
+
+computer writing is virtual, but so is writing in print
+- all writing works within an abstract space of signs
 
 ** mechanisms
 mechanism is both process and product
@@ -55,11 +119,13 @@ Pick up a modern book. This one will do: the one you are looking at right now.
 * talk with matt
 add new matt kirsxhenvaum book
 * areas:
-book history/bibliography (technological determinism)
-early hypertext theory (boulter, benkler, mcgann)
-text
-interfaces/platforms (emerson, textual media)
-books and freedom
+** book history/bibliography
+** early hypertext theory
+(boulter, benkler, mcgann)
+
+** interfaces/platforms
+Emerson, Textual Media
+** books and freedom
 
 talk about the levels on which we engage with books
 
@@ -79,3 +145,14 @@ positivism in bibliography
 
 
 
+
+
+* concepts
+
+** literature is the fragment of fragments
+goethe
+means that only a tiny portion of history or occurances makes it into literature
+
+
+* references for hacksessability article
+look up /The Visible Word/, Johanna Drucker
