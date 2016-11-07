@@ -4,9 +4,10 @@ Think about Kitler and the interchangability/fluidity of the digital
 Do networks have aura?
 With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
 Does vinyl have aura?
-** Some of the writers on the list (Kirschenbaum, Kitler) combine technical rigor with a humanistic sensibility. Others are more focused on one domain or the other (Moretti, etc). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile techical detail and experiential or cultural understanding?
+** Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
 seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
 
+Kitler: "drive the human from the humanities"
 ** How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
 
 ** How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
@@ -72,7 +73,36 @@ his larger theory is essentially that wars of the future are fought with informa
 
 Dracula is provintial, the hunters are democratic, cosmopolitan
 
-** writing spaces (David Bolter)
+** Track Changes (Kirschenbaum)
+recovering obscured histories: women in early word precessing, quotidian word processing experiences, not just academic avant garde experiences
+
+John Barth in Paris Review:
+“Do you think word processors will change the style of writers to come?” Plimpton asks. “They may very well,” Barth replies, and continues: “But I remember a colleague of mine at Johns Hopkins, Professor Hugh Kenner, remarking that literature changed when writers began to compose on the typewriter. I raised my hand and said, ‘Professor Kenner, I still write with a fountain pen.’ And he said, ‘Never mind. You are breathing the air of literature that’s been written on the typewriter.’ So I suppose that my fiction will be word-processed by association, though I myself will not become a green-screener
+
+Adam Bradley: did forensic analysis of Ralph Ellison's machine
+
+Kenner, student of McLewhan, wrote /Mechanical Muse/ about how historical changes in writing process affected authors
+
+
+
+nowadays business and commerce circulate in a algorithmic form that is indistringuishable from writing
+
+fundamental thesis: "sometimes the details really do matter" and "this is an option Dickens did not have"
+
+** Perfect
+the word perfect describes the aspirations of word processing. it describes the sense of producing an absolutely finished product and the desire for efficiency and productivity
+
+writing is never "off the grid." it is always a power technology--it encodes power, is able to project language across space and time
+
+To write Baroque cycle, Stephenson first used longhand, then Emacs, then wrote a conversion program to Quark Express in Lisp to send to his publisher
+
+great passage from Franzen about having to open his computer and stick a pencil in to stop an annoying whine
+- Kirschenbaum: "No virtual realities here, only the minute torques and tolerances of the everyday: relative humidity, rubber bands, and stripped screws, their shavings of low-grade steel no doubt collecting somewhere inside the burlesque cavity of the machine’s exposed innards."
+- sometimes the details really do matter
+
+
+
+** Writing Spaces (David Bolter)
 letter press the first word "processor"
 
 technology comes from tekne, which is Greek for art or craft, so we should think of technology more broadly
@@ -86,7 +116,7 @@ computers are tangible objects, and thus are not excluded from materiality
 computer writing is virtual, but so is writing in print
 - all writing works within an abstract space of signs
 
-** mechanisms
+** mechanisms (Kirschenbaum)
 mechanism is both process and product
 seems to be suggesting a close reading of technologies and artifacts
 
@@ -112,6 +142,10 @@ functions at different scales, tries to be a framework that works in many differ
 *** follow up
 tree of codes
 only revolutions
+
+John Barth: "Coming soon!!!" about man obsessed with hypertext, ordered in hardcover for the grinder
+
+/The Mechanic Muse/ (Kenner)
 
 * speech
 Pick up a modern book. This one will do: the one you are looking at right now.
@@ -141,11 +175,6 @@ text
 positivism in bibliography
 
 - relate to positivism in digital humanities[[file:~/1][file:~/1]]
-
-
-
-
-
 
 * concepts
 
