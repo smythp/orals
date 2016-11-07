@@ -1,0 +1,38 @@
+** mechanisms
+mechanism is both process and product
+seems to be suggesting a close reading of technologies and artifacts
+
+** literature, media, information systems (kitler)
+in the age of computers, all information/media is interchangable; video, text, etc are just shallow choices on how to display
+
+kitler uses example of airplane, in which the reality (inhospitable environment, complex flight systems) is hidden from users by friendly distractions
+- kind of two worlds
+- in america, there is no hacking/modding/repairing culture, so the difference is even more pronounced
+
+notions of what an author is and how they are read are always histoically determined, aspects of a larger communications system
+- literature can be treated as a form of data processing
+- texts cannot be read independant of literary discouse; in order to make "sense" of literature, we need literary culture
+- before rise of gramaphone, film, typewritier, literature had a monopoly on discouse networks. after, the materiality of literature could not be ignored. before, language had romantic/spiritual powers, but typewritier removes writing from sensuous hands. surrealism deals with mechanically writing down sense impressions, which makes sense for this moment**** Kitler, Friedrich., /Literature, Media, Information Systems/ (1997)
+**** Lessig, Lawrence. /Remix: Making Commerce Thrive in the Hybrid Economy./ (2008)
+
+**** Marshall McLuhan. /The Gutenberg Galaxy./ (1962)
+**** Matthew Kirschenbaum. /Mechanisms: New Media and the Forensic Imagination./ (2008)
+**** McGann, Jerome. /Radient Textuality./ (2004)
+**** McKenzie, D. F. /Bibliography and the Sociology of Texts./ (1999)
+**** Michel Foucault, /The Archaeology of Knowledge./ (1969) 
+**** Piper, Andrew. /Book Was There: Reading in Electronic./ (2013 reprint)
+**** Stallman, Richard. /Free Software Free Society./ (2009)
+**** Stephen Ramsay. /Reading Machines: Toward an Algorithmic Criticism./ (2011)
+**** Walter Ong, /Orality and Literacy: The Technologizing of the Word./ (1982)
+**** Wolfgang Ernst. (Ed.) /Digital Memory and the Archive./ (2012)
+
+
+** Articles
+**** Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction."
+**** Drucker, Johanna. "Data as Capta," DHQ (2011)
+**** Siemens, R., Timney, M., Leitch, C., Koolen, C., & Garnett, A. (2012). /Toward modeling the social edition: An approach to understanding the electronic scholarly edition in the context of new and emerging social media.". Literary and Linguistic Computing, 27(4). Retrieved January 14, 2014, from http://web.uvic.ca/~siemens/pub/2011-SocialEdition.pdf 
+**** Underwood, Ted. The Literary Uses of High-Dimensional Space." (2015)
+
+
+add new matt kirsxhenvaum book
+
