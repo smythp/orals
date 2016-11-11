@@ -5,7 +5,7 @@ Do networks have aura?
 With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
 Does vinyl have aura?
 ** Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
-seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
+seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computational model" (kitler intro)
 
 Kitler: "drive the human from the humanities"
 ** How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
@@ -32,19 +32,6 @@ notions of what an author is and how they are read are always histoically determ
 - literature can be treated as a form of data processing
 - texts cannot be read independant of literary discouse; in order to make "sense" of literature, we need literary culture
 - before rise of gramaphone, film, typewritier, literature had a monopoly on discouse networks. after, the materiality of literature could not be ignored. before, language had romantic/spiritual powers, but typewritier removes writing from sensuous hands. surrealism deals with mechanically writing down sense impressions, which makes sense for this moment**** Kitler, Friedrich., /Literature, Media, Information Systems/ (1997)
-**** Lessig, Lawrence. /Remix: Making Commerce Thrive in the Hybrid Economy./ (2008)
-
-**** Marshall McLuhan. /The Gutenberg Galaxy./ (1962)
-**** Matthew Kirschenbaum. /Mechanisms: New Media and the Forensic Imagination./ (2008)
-**** McGann, Jerome. /Radient Textuality./ (2004)
-**** McKenzie, D. F. /Bibliography and the Sociology of Texts./ (1999)
-**** Michel Foucault, /The Archaeology of Knowledge./ (1969) 
-**** Piper, Andrew. /Book Was There: Reading in Electronic./ (2013 reprint)
-**** Stallman, Richard. /Free Software Free Society./ (2009)
-**** Stephen Ramsay. /Reading Machines: Toward an Algorithmic Criticism./ (2011)
-**** Walter Ong, /Orality and Literacy: The Technologizing of the Word./ (1982)
-**** Wolfgang Ernst. (Ed.) /Digital Memory and the Archive./ (2012)
-
 *** Gramaphone, Film, Typewriter
 Suggests that optical fiber networks are coming because they are the pentagon's hedge against the atomic bomb (weird)
 
