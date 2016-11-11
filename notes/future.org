@@ -1,20 +1,45 @@
 * questions
-** How does the concept of aura apply (or not apply) in an age of digital, rather than mechanical,  reproduction?
+- There is a rhetoric of progress that applies particularly to technology and the emergence of new media that suggests that present technology is an inevitable product of past technology. Why should we be suspicious of this rhetoric? What trends are not progress but "retrograde movement" (to use a military euphemism)? Are there points of inflection in which technology was at an "Anderweg," another path that it could have taken? Thinking about Nelson's /Dream Machines/, Stallman's /Free Software, Free Society/, Emerson's /Reading Writing Interfaces/.
+- How does the concept of aura apply (or not apply) in an age of digital, rather than mechanical,  reproduction?
 Think about Kitler and the interchangability/fluidity of the digital
 Do networks have aura?
 With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
 Does vinyl have aura?
-** Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
-seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computational model" (kitler intro)
+- Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
+seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
 
 Kitler: "drive the human from the humanities"
-** How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
+- How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
 
-** How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
+- How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
 Chartier reminds us that all writing has a material component, as does Pipes
-** How important are distinctions between data and process (von Neuman architecture, J. L. Austin's /How to Do Things with Words/) Think about ebooks, games. Do these thigns exist without a human subject? Think also about object-oriented ontology (and state/method from object oriented programming)
+- How important are distinctions between data and process (von Neuman architecture, J. L. Austin's /How to Do Things with Words/) Think about ebooks, games. Do these thigns exist without a human subject? Think also about object-oriented ontology (and state/method from object oriented programming)
 * book notes
-** literature, media, information systems (kitler)
+** Reading Writing Interfaces (Lori Emerson)
+"this book begins and ends with magic"
+we are in the era of the marvelous
+- ipad, google glass seem to have supernatural properties
+
+book is about demystifying technology
+- the interfaces are actually becoming harder to percieve due to the seductions of modern technology
+in computing, interface refers to the point of interaction between hardware and software components
+- many kinds of interfaces, 8 interfaces include hardware to hardware, hardware to software, human to hardware
+
+the idea of the book is to find out what is revealed by what is concealed
+- the book is about magic in the sense of the wonderous and magic in the sense of obscured complexity
+- the glossy surface alienates the user
+
+"when transparency...becomes and unuestioned necessity," all computing devices then only become tools for the consumption of content
+
+"the definition of ideology is that which we are not aware of"
+
+refrences Kitler, who says "media determine our situation"
+
+media archology does not seek to reveal the present as an inevitable product of the past
+- similar to m. kirchenbaums use of referse chronology to avoid the Sonderweg fallacy
+
+
+** Literature, Media, Information Systems (Kitler)
 *** intro
 applies information theory (claude shannon) to new media questions
 
@@ -76,7 +101,7 @@ nowadays business and commerce circulate in a algorithmic form that is indistrin
 
 fundamental thesis: "sometimes the details really do matter" and "this is an option Dickens did not have"
 
-** Perfect
+*** Perfect
 the word perfect describes the aspirations of word processing. it describes the sense of producing an absolutely finished product and the desire for efficiency and productivity
 
 writing is never "off the grid." it is always a power technology--it encodes power, is able to project language across space and time
@@ -86,8 +111,23 @@ To write Baroque cycle, Stephenson first used longhand, then Emacs, then wrote a
 great passage from Franzen about having to open his computer and stick a pencil in to stop an annoying whine
 - Kirschenbaum: "No virtual realities here, only the minute torques and tolerances of the everyday: relative humidity, rubber bands, and stripped screws, their shavings of low-grade steel no doubt collecting somewhere inside the burlesque cavity of the machine’s exposed innards."
 - sometimes the details really do matter
+*** sci fi writers = early adopters
 
+Douglas Adas
+- early adopter of word processing and early computers
+- collaborated with infocom on hitchhiker's guide interactive fiction
+- bucked trend of iagining computers being conduits for AI and isntead iagined the hitchhiker's guide, which is essentially an ebook
 
+jack vance
+- early adopter of accessibile technologies, used speech snythesizer and large font due to deteriorating eyesight
+
+William Gibson
+- couldn't afford a typewriter for neuromancer
+- imagined cyberspace, a consentual hallucination
+- his ignorance of computers was actually an asset in imagining cyberspace, allowed him to romanticize the computer
+- collaborated with Sterling on The Difference Engline, used word processing to fully collaborate
+
+"it's not the scientists but the word people that have taken them (computers) up"
 
 ** Writing Spaces (David Bolter)
 letter press the first word "processor"
