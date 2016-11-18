@@ -1,4 +1,146 @@
+* In Science's Shadow (Patricia Murphy, 2006)
+reads a sampling of texts that show how scientific discourse is used to margninalize women
+
+pressures to broaden women's expectations and cultural horizions, including interrogating sexual mores and the institution of marraige, led to greater gender-related anxieties
+- science was a powerful weapon to stifle or stimulate social change
+
+Darwin: "man is more powerful in body and mind than woman" and displays more invention
+- children resemble the mature female more than the mature male
+- contended that women had greater intuition, rapid perception—these traits were also evident of uncivilized peoples or rances
+- "the chief disctiontion of the intellection powers of the two sexes is shown by man's attaining to a higher eminence in whatever he takes up than woman, whether requireing deep thought, imagination, or the uses of the senses or hands"
+
+literature published after /Descent/ shows a casual familiarity with prevailing scientific theories
+- Tennyson's /im memorium/ shows knowledge of the earth's formation, humanities' beginnings, and evolutionary progression
+- /Jane Eyre/ and /Wuthering Heights/ (among others) feature the minor figure of the physician 
+- /Water-Babies/ based on evolution
+- psychology of madness captured popular imagination
+- also analyzes the adventure novel
+
+
+she focuses on non-canonical novels following the publication of /Descent of Man/ in 1871: Dickens, Brontes were dead, Tennyson was in his Arthurian period, etc.
+
+gives chapter progressions from oblique references to science to developing theories of male superiority in science to reactionary invective against a transgressive female figure to a female voice of reason to a more optimistic resolution
+
+1869: Anthropologist McGregor Allan wrote "On the Real Differences in the Minds of Men and Woman"
+- "man's realm is the intellect, woman's the affections"
+
+other scientific distctions
+- men are "catebolic" (more active), women "anabolic" (less active)
+- women were to be the complement or companion in relation to men
+
+* Descent of Man (Darwin)
+difference in the capabilities between species is a difference in degree, not of kind
+- compares religion in man to fetishism in "savages", suggesting that moral/social instincts evolve
+
+* Rules of Darkness (Patrick Brantlinger, 1988)
+book maps the development of the Victorian imperialist ideology
+- book assumes that discourse is a form of power (Foucault), so what the Victorians said and thought about thier global project mattered
+- stated aim of reducing imperialist ideology in the present
+
+before the 1960s, scholars treated the early Victorian period with scant reference to imperialism
+the word imperialism itself had its own contentions
+- does it refer only to formal acts of colonial aggrandizement?
+- can it refer also to ideological positions such as jingoism/patriotism and racial superiority?
+- if you look at empire-building as an economic and political process, you might not consider the early-mid Victorians as imperialists because they were not jingoistic
+- the "easy confidence" of early-mid Victorians was an imperialist mode
+
+reacts against this claim: "no one in Dickens, Thackeray, Eliot, or rollope broooded about the imperial relationship"
+
+1830s-1870s: Vics want to grant some indpeendence to colonies
+- after troubles in India and Ireland, Vics more conservative about colonies
+
+imperialist ideology
+- chauvinism
+- advocacy of use of military force to settle colonial disputes
+- belief in "civilizing mission" (and racial) superiority
+
+notes an evident desire in modern scholarship (as of 1980s) to downplay the imperial
+
+"Said defines orientalism as 
+a kind of Western projection onto and will to govern over the Orient' that manifests itself over the last two centuries in innumerable cultural productions, from the social sciences to the popular arts.
+Race is a weakness of Marxist criticism of imperialism
+
+during the 1860s, the word "imperial" denoted the Napoleonic project of imperialism, but the term "the colonies" was frequently used
+
+* The Lost World (Doyle)
+"The big blank spaces in the map are all being filled in, and there's no room for romance anywhere." (very Weberian)
+* The Darwinian Heritage (ed. David Kohin)
+
+** Sulloway, chapter 4: an overview of the Beagle voyage
+uses "content analysis" on Darwin's letters
+- uses a word-by-word analysis of documents to reveal themes and patterns
+- analyzes word occurance, groupings of words...seems to be early topic modelling
+
+traces movement from exuberance of discovery to analysis
+- in beginning, category of size and of entymology cooccur
+
+during an unconfident period, Darwin describes himself as a "Baron Munchhausen amoung scientists" to Henslow in a letter
+- also "i am nothing more than a lion's provider" ... "they are likely to eat me"
+
+Beagle voyage was 1831
+/Origin/ was 1859
+some have tried to read the Beagle voayge as /Origin/ writ large, but Himmelfarb (among others) tries to be more realistic, saying that his eureka moments happened after returning
+
+
+* Magic, Science, and Empire in Postcolonial Literature (Kathleen J. Renk)
+in intro, holds up the hermetic tradition in opposition to the totalizing view of science as empiricism and "empireism" 
+
+/Somnium/: novel by Johannes Kepler about a boy who tavels to the moon with his witch mother
+
+/Doctor Copernicus/: 
+
+* Erewhon (Samuel Butler)
+beginning (the back country, shepherds, exploring mountain ranges) was inspired by Butler's travels to New Zealand
+
+the Erewhenians treat those with diseases like criminals and criminals like those with diseases
+
+they were very technologically advanced until one of their scholars wrote a hypothetical tract about how machines would ultimately supplant humanity
+- very post-human
+
+
+relates machines to evolution
+- lower animals are quite primitive, like present machines
+- "is it not safer to nip the mischief in the bud and forbid them further progress?" - the argument is that machines the progress of machines will overtake the progress of animals, making humans superfluous
+- makes a good argument about the mechanical and the willed: if the venus flytrap eat flies and not otherrandom detrius, which one might be said is only mechanical...but clearly it is mechanical in its own self interest. if such a sa simple organizorganism can be mechanicalself-interested, what is to stop a machine from being self-interested?
+- "even a potato in a dark cellar has a certain low cunning that serves him in excellent stead
+- "the potato says these things by doing them"
+"i fear none of the existing machines.  what i fear is the extraordinary rapidity
+rapidity with which they are becoming something very different from what they are at present
+- "should not that movement be jealously watchedand checked while we can still check it?""
+
+
+fascinatingly, here he anticipates protocols: "by the machine's own construction"
+
+also anticipates the cyborg argument: man  is useless unless he tacks machines on to himself, without machines he cannot do things like see the spots on the moon
+will man not become a "machine-tickling aphid"?
+
+man's very soul is due to the machines.he thinks as he thinks, and feels as he feels through the work that machines have wrought upon him"
+"what an army of servants do the machines thus employ" - the scuttler is a cook for the steam engine, etc, there are more men employed tending machines than tending men
+
+argues that machines will also be able to build machines, so reproduction is no differentiator that sets animals apart
+actually makes the very interesting argument that machines already have a reproductive system...we are in a symbiotic relationship with them, just as bees are required for clover to reproduce
+man came about through the molding and changes of millions of years, but his advancement never came about as fast as the machines are advancing
+
+if a plant in the early history of the world could have thought about its stante, would it not have been ridiculous for it to think that animals would one day become /real/ vegetables?
+- isn't it also silly to think that there cannot be a higher form of life than ours?
+- also silly to think that machines do not have a form of life
+"the wonder is that there can be as much certainty about human action as there is"
+- makes the point about the world being deterministic because the future is based on the present, and the present is based on the past, and the past is fixed
+- makes interesting arguments about free will: image a driver on a train. it's hard to imagine the train failing to move forward deterministically based on the laws that govern it, but it seems as if the man could stop the train any time he desired. However, he can only desire to stop the train given certain relatively predictable stimuli or causes.
+spontenaiety is only a term for man's ignorance of the gods
+
+the argument proposed against the necessary descrition of machines (so that they do not supercede mankind) is a cyborg argument:
+- machines are merely extensions of the organism that is man; man is machinate
+- a spade is an extension of the limb, etc
+- language here very rem. of cyborgs
+- "if we are wet we are furnished with an organ commonly called an umbrella"
+- "that old philisophic enemy, matter, still hangs about the neck of the poor man and strangles him"
+
+satirizes a philosopher who argues for vegetarianism, arguing it as a moral progressin
 * Deadly Encounters
+northumberland street affair
+Major Murray
+
 1861: "sensation was the sensation"
 - a craze that lasted a decade
 - murders in the summer of 1861 started craze for sensation
@@ -225,3 +367,10 @@ Sartor Resartus (1831) by Carlyle, introduces itself as a scientific study of cl
 * pseudoscience
 carlyle, sartor rassartis
 alison winters, true and not true science
+
+
+* timeline
+1850 - /in memorium/ by Tennyson
+1859 - /Origin of Species/
+
+1870 - beginning of major victorian expansion
