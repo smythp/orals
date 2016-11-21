@@ -1,20 +1,129 @@
-* questions
-- There is a rhetoric of progress that applies particularly to technology and the emergence of new media that suggests that present technology is an inevitable product of past technology. Why should we be suspicious of this rhetoric? What trends are not progress but "retrograde movement" (to use a military euphemism)? Are there points of inflection in which technology was at an "Anderweg," another path that it could have taken? Thinking about Nelson's /Dream Machines/, Stallman's /Free Software, Free Society/, Emerson's /Reading Writing Interfaces/.
-- How does the concept of aura apply (or not apply) in an age of digital, rather than mechanical,  reproduction?
-Think about Kitler and the interchangability/fluidity of the digital
-Do networks have aura?
-With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
-Does vinyl have aura?
-- Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
-seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
-
-Kitler: "drive the human from the humanities"
-- How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
-
-- How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
-Chartier reminds us that all writing has a material component, as does Pipes
-- How important are distinctions between data and process (von Neuman architecture, J. L. Austin's /How to Do Things with Words/) Think about ebooks, games. Do these thigns exist without a human subject? Think also about object-oriented ontology (and state/method from object oriented programming)
 * book notes
+** Book Was There (Andrew Piper)
+reading isn't just an escape, it's a disciple
+- reading molds the reader
+
+he was not only a reader but a computer user
+
+says he wasn't a great reader, in the grand sense of Sartre or Goethe
+
+are new digital natives too far the other way (i.e., not reading?)
+
+book tries to bridge the divide between book hisotry and media studies
+- written more as a classical essay, not a jeremiad or a highly theoretical work (thank you)
+
+"I can imagine a world without books. I cannot imagine one without reading."
+
+gripes about too much screen reading is quite similar to gripes about too many romances (Don Quixote) or two many penny dreadfuls
+
+"books will always be there"
+- but it is our choice where books will be
+
+books allow us to reflect on who we once were and who we want to be
+
+chapter 1: starts with the conversion of St. Augustine, he's in a garden filled with doubts and hears a child from another house singing "take it and read"
+- after reading one passage he is converted
+- use of the codex as technology: he picks up the book and picks a random passage, he walks away with his finger marking the passage
+- the graspability of the book, in a material as well as spiritual sense
+- the book is /at hand/
+  - book of hours (graspable)
+  - manual
+  - manicule
+  - braile
+
+books are things that hold things
+- encapsulation
+
+books are also menat not to be grasped
+- they lie around
+- you let them go, to let them circulate
+
+So how do we "hold onto" digital books?
+- Text Rain - art in which text falls on a screen into open hands 
+
+digital texts are marked by a weak sense of closure
+
+yet touch has emerged as a mode of interaction with the digital
+
+we are afraid of reading's inertia
+- we whisk away at the scree,
+- skimming is the new normal
+
+Chapter 2: Faces
+
+interfaces
+looking and reading
+frontispiece
+
+Lavater: created a book of faces designed to allow people to learn to divine the soul in the face
+- started the craze for silhouettes in the 18th century as well as prefigured Lombroso, phrenology
+
+crampedness of the face of the webcam
+- captures a sense of compression
+
+we sleepwalk through the web
+- we are mentally asleep but physically awake
+
+Facebook is the "new narsessystem"
+
+Chapter 3: The page
+
+Ebooks are single pages
+
+"There is just too much stuff on the screen now"
+- distraction
+- refrain that we're in an age of distracted readers, people can't finish a book
+- Pliny: "read much, not many" (anxieties about shallow reading go way back)
+
+the medeval page was a cacophony
+
+doesn't think enhanced ebooks are the way
+- we need to think about the architecture of the text, not the technology
+
+fenestration: the act of looking /through/ the page
+
+could be written of the page (from Susan Orlean and /Orchid Thief/: 
+- "there are too many ideas and things and people. Too many directions to go. I was starting to believe the reason it matters to care passionately about something, is that it whittles the world down to a more manageable size." <---- this
+- pages are signs of passion, they are the result of whittling down, chipping away
+
+"pages are material arguments of individualization" 
+"pages are finite"
+pages allow us to access the world at random
+
+the quotation mark was invented in Frane a century before in England (fun fact)
+
+the book of nature
+- the book can be a faithful reflection of nature
+- nature is like a book
+
+the digital makes reading nomadic rather than domestic
+- instead of curling up with a book, we roam across a plain (or traverse a superhighway)
+
+reading assume topology
+- the stream is chronological, not topological
+- you can never step in the same stream twice. there is no rereading
+
+Goethe: "It would be a lowly art that allowed itself to be understood all at once"
+
+** Reassembling the Social (Bruno Latur)
+explores Actor Network Theory, a take on sociology that includes non-human entities in the social graph
+- differences in relations with humans and animals should be explored in the relationship, rather than being presupposed
+- technologies and objects also in graph
+- seems to me like a play to allow social science to include science
+** Emergence of the Digital Humanities (Steven Jones)
+thesis is that the eversion provides an essential context for examining DH as a new fieod of study
+
+book is about the digital humanities
+- new tradition of the digital humanities
+
+burst dot com bubble was the end of the old cyberspace era
+
+2005: Blackwell's Companion to DH
+2006: NEH grants for DH
+- DH emerged in these years
+
+he's into the eversion, which comes from Gibson
+
 ** Reading Writing Interfaces (Lori Emerson)
 "this book begins and ends with magic"
 we are in the era of the marvelous
@@ -37,7 +146,6 @@ refrences Kitler, who says "media determine our situation"
 
 media archology does not seek to reveal the present as an inevitable product of the past
 - similar to m. kirchenbaums use of referse chronology to avoid the Sonderweg fallacy
-
 
 ** Literature, Media, Information Systems (Kitler)
 *** intro
@@ -173,6 +281,32 @@ only revolutions
 John Barth: "Coming soon!!!" about man obsessed with hypertext, ordered in hardcover for the grinder
 
 /The Mechanic Muse/ (Kenner)
+
+* questions
+- There is a rhetoric of progress that applies particularly to technology and the emergence of new media that suggests that present technology is an inevitable product of past technology. Why should we be suspicious of this rhetoric? What trends are not progress but "retrograde movement" (to use a military euphemism)? Are there points of inflection in which technology was at an "Anderweg," another path that it could have taken? Thinking about Nelson's /Dream Machines/, Stallman's /Free Software, Free Society/, Emerson's /Reading Writing Interfaces/.
+- How does the concept of aura apply (or not apply) in an age of digital, rather than mechanical,  reproduction?
+Think about Kitler and the interchangability/fluidity of the digital
+Do networks have aura?
+With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
+Does vinyl have aura?
+- Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
+seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
+
+Kitler: "drive the human from the humanities"
+- How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
+
+- How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
+Chartier reminds us that all writing has a material component, as does Pipes
+- How important are distinctions between data and process (von Neuman architecture, J. L. Austin's /How to Do Things with Words/) Think about ebooks, games. Do these thigns exist without a human subject? Think also about object-oriented ontology (and state/method from object oriented programming)
+Are we becoming less literature? How does rading interact with ouur cognition? What is the relationship between books and screens? (/Book Was There/
+
+What is the position of hypertext fiction? Comeback?
+
+What is the relationship between digital humanities and new media studies?
+
+How do ideas from book history such as patronage affect the modern writing, publishing, and consumption of texts?  and How does the form still constrain the production of meaning and its dissemination? Forms and Meanings (Chartier)
+- what is the modern equivelant of the dedication?
+- how do online communities of practice and heterodox hermaneutics affect the consumption of works? thinking of /Homestuck/ and /Undertale/. This literature is an event, it cannot be archived, unlike the Agrippa files, which has largely been archived.
 
 * speech
 Pick up a modern book. This one will do: the one you are looking at right now.
