@@ -1,6 +1,67 @@
+* books and forms
+
+The book has an inherent authority by virtue of being a document (/Paper Knowledge/, Lisa Gitelman) and due to the inherent authority and stability of print (/Writing Space/, Bowlter), but that authority is dependent  on context. Two appraoches to the historical situation of books, examining their production, dissemination, and reception, are "historical comprehension" (Chartier, /Forms and Meanings/) and paratextual theory (Genette). 
+
+Chartier's primary concern in /Forms and Meanings/ is the milieu of reception, which can differ widely within a historical situation. The play /George Dandin/ (1668) by Molière, for example, was presented first at Versilles to celebrate the victories of Louis XIV  and then in the urban theaters of Paris, entirely different milieu with different modes of reception. Chartier contends that "no work has any meaning outside of the varied forms that offer it for decipherment." For Chartier, form extends beyond materiality or the physical embodiment of a work—necessarily includes historical and cultural frameworks of reception. For him, readings that conflate distinct groups ("the popular reading") or readings that ignore historical or material situation (New Criticism, arguably tacitly readings dependent on some instatiations of critical theory) are suspect.
+
+
+
+* hypertext
+
+for bowlter, to say that somethign is flexible and interactive is to say that it is hypertextual
+hypertext = text that is flexible and interactive (and to that he adds iterative, links lead to links lead to links)
+the fact that he has to provide an explanation of hypertext in the context of the web is telling (book written in 2001)
+
+for Bowlter, hypertext is about topography
+- he talks about word processing under the topic of hypertext, i.e. moving text around and thinking about headings/topics
+- uses the term "flattening" to describe the movement from data structure to a linear visual display
+- talks about "outline processors," which allow one to edit and move around headings or topics and not just words (what word processor actually did this? i know scrivener does)
+
+
+Chartier observed in 1995 that the move from print to screen was larger than the move from manuscript to print because this revolution changes the methods of organization
+* outline
+
+** Wealth of Networks (Benkler)
+networks are democratizing
+book itself was a demonstration of online collaboration
+- also true of /Planned Obsolescence/ Kathleen Fitzpatrick and Matt's /Debates/
+"industrial information economy"
+- information is the most important output of advanced economies
+computers = lowered costs of access
+- refers to GPL liscences as example
+
+concerned with lowering of tranaction costs
+- two scare resources: human attention and communication/computation
+- he figured the lowering of costs of communication would lead to democratization online, but it was the human attention that was the real bottleneck and (in my opinion) led to the rise of the walled garden
+
+
+** Writing Space (Bowlter, 2001)
+we are in "late age of print"
+Two goals of media: representation ("window to the world") or hypermediacy (a concern with the affordances of the medium)
+remediation - tense relationship between an incumbent and an ascending medium
+hypertext = flexible, interactive, iterative
+Hypertext has a topology. Computers are concerned with structures. Most visual representations are "flattening."
+Everything is a technology. Writing is a technology.
+** Forms and Menaing (Roger Chartier, 1995)
+Main topic: How does the form (mode of transfer from author to reader) constrain the production of meaning?
+"Historical comprehension" requires that we look closely at the milieu, not just the work
+we should deconstruct not only the text, but the various receptions of that text in differnt milieu
+Vico's three ages (gods, heroes, and men) = move from reading from priests to aristocrats to the vulgar
+xylography - the use of wooden templates to print characters, a practice used in China in the 11th century, long before Gutenberg
+the move to electric is bigger than the change to print culture because it changes the form itself. Also changes methods of organization of the written word
+codex allows for new affordances (paging through, finding citations; perfect for Christianity)
+
+there is a dialectic between a form (a tradition of reading or consuming a piece of media) 
+
+Vico's classification: Three Ages
+Age of Gods - metaphor (objects to symbols), theocracy - scripture
+Age of Heroes - metanym (qualities to symbols), aristocracy - contracts
+Age of Men - synecdoche (abstractions or sounds to symbols), the Republic or the vulgar - facts
+
+
 * book notes
 ** Book Was There (Andrew Piper)
-reading isn't just an escape, it's a disciple
+reading isn't just an escape, it's a discipline
 - reading molds the reader
 
 he was not only a reader but a computer user
@@ -104,6 +165,22 @@ reading assume topology
 - you can never step in the same stream twice. there is no rereading
 
 Goethe: "It would be a lowly art that allowed itself to be understood all at once"
+
+** Forms and Meaning (Chartier)
+he is both a book historian concerend with materiality on a large time scale and a participant in a forward-thinking digitization project at the Library of France
+
+like Genette, concerned with the "production, dissemination, and reception of texts"
+
+we should not attribute a singluar voice to the contemporary reception of a text, 
+- there is really no such thing as a "popular" reception of a text
+
+betwen 2nd and 4th century, the scroll is replaced with the codex
+
+looks at systems of patronage, the main representation of which is the dedication
+
+suspicious of claims of print culture being dramatically different from manuscript culture
+- book in the same formally (bound paper)
+- book was similarly incomplete after printing (would have been illuminated, punctuated by the corrector, and its margins annotated by a reader, just as with a manuscraipt book)
 
 ** Reassembling the Social (Bruno Latur)
 explores Actor Network Theory, a take on sociology that includes non-human entities in the social graph
@@ -237,7 +314,32 @@ William Gibson
 
 "it's not the scientists but the word people that have taken them (computers) up"
 
-** Writing Spaces (David Bolter)
+** Writing Space (David Bolter)
+we live in the late age of print (similar to late capitalism, like in Jameson
+- that doesn't mean it has declined, but that it has changed
+the idea of the book is changing
+- the screen has flexibility, interactivity, speed of distribution
+- print has stability and authority
+
+this book is written in an era before ebooks could be at all taken seriously except by futurists, only a few thousand ebooks might have been sold by then
+
+
+print is still indispensible, but it no longer seems indispensible
+
+
+*** remediation
+the process of remediation makes an implicit or explicit claim to improve on the old medium
+- literacy using papyrus was a remediation of the oral tradition and was in an uncomfortalbe dialectic with it
+- codex remediated the scroll in the same way
+- similar dialectic of tension exists between print and screen
+
+rivalry and homage key in remediation
+
+important: two goals or stances in creating medaia: representation, or "a window to the world," and hypermediacy, or a deliberate engagement with the medium
+- WWW is often an example of hypermediacy
+
+the key advantages of electronic forms are flexibility and interactivity, that is the foundation of most print to screen remediations
+
 letter press the first word "processor"
 
 technology comes from tekne, which is Greek for art or craft, so we should think of technology more broadly
@@ -311,6 +413,12 @@ How do ideas from book history such as patronage affect the modern writing, publ
 * speech
 Pick up a modern book. This one will do: the one you are looking at right now.
 
+books both powerful and dangerous:
+"The Tempest, which was performed at court on i November 1611 before James I, Shakespeare presented a prince who, to his misfortune, preferred the company of books to the art of government. Prospero, the duke of Milan, had given up the exercise of power in order to devote all his time to the study of the liberal arts and secret knowledge. "Being transported and rapt in secret studies," his only aspiration had been to flee the world and find refuge in his library: "Me, poor man, my library was dukedom large enough" (1.2.109-10). l Prospero had given over the business of governing the state to his brother Antonio. This primary disruption of normal order was the source of all the troubles. It was reflected on the political level when Antonio betrayed his trust, proclaimed himself duke, and banished Pros- pero from his own dukedom, and on the cosmic level by the storm of the opening scene that turns the order of Nature upside down just as Antonio's usurpation of power had destroyed political order. The story told in The Tempest is one of reconciliation. At the end of the play, the harmony that had been broken is fully restored, thus mending the initial rupture that had made Prospero an all-powerful magician, the master of the elements and die spirits, but also a penniless sovereign stripped of his throne, banished, and living in exile on an uncharted isle. 2 The mirror the play offered the living prince reflected both the power of books and their danger. It is thanks to the books die faithful Gonzalo enabled Prospero to take with him in the ship that bore him away ("Know- ing I loved my books, he furnish'd me / From mine own library with volumes that/ I prize above my dukedom"; 1.2.166-68) that Prospero can loose the fury of the waves or calm them, call up spirits, and cast spells to enchant human beings. But it was that same limitless passion for books — in particular, for books of hidden knowledge — that made him lose his throne. The restoration of legitimate sovereignty and the reestablishment of politi- cal order thus require that he renounce the books that give power only at such a high price: "But this rough magic / I here abjure...I'll drown my book"
+
+
+"Although it is very difficult to avoid all prediction (in practice, to avoid writing in the future tense), it should nevertheless be possible to resist the impulse to unify—to avoid merging individual predictions into a synthesis that is supposed to represent the one, true future. We should instead treat the predictions of both the enthusiasts and the critics as part of the ambiguous present that constitutes the late age of print. Their predictions reflect the struggles among various cultural factions that are trying to work out the relationship of digital technology to its predecessors. "
+(from Bowlter)
 * talk with matt
 add new matt kirsxhenvaum book
 * areas:
@@ -346,3 +454,8 @@ means that only a tiny portion of history or occurances makes it into literature
 
 * references for hacksessability article
 look up /The Visible Word/, Johanna Drucker
+
+
+
+what would mcgann say about hypertext
+
