@@ -14,9 +14,9 @@ Add Greetham
 
 Three vectors provide ways to engage differences between print and digital culture and the distinctions in reading practices between page and screen. These are cognition, topology, and materiality.
 
-Much literature on the shift from page to screen is concerned with the affordances and limitations of human cognition in new digital contexts. Arguably the ur-text here is Marshall McLuhan's /Gutenberg Galaxy/. McLuhan's primary concern here is the extension (or overextension) of human capabilities and the corresponding atrophy of those capacities that are lesser used. He cites Popper's /THe Open Society and Its Enemies/ in claiming that the project of the ancient world was to destroy tribalism or provincialism and to deal in abstractions that efface difference, such as currency and literature. However, according to McLuhan, modern technology is returning us to tribalism by extending our senses to people around the globe. This is his central idea of the "global village," which denotes a shift from visual culture (necessitated by the technology of writing) back to orality, or a culture based on aural communications. We live in an "electric, post-literary" world, though for McLewhan the technologies he's concerned with include jazz and television, not Facebook and YouTube. McLuhan draws on the work of social scientists that indicate human dependence on closure in completing tasks and the pruning of neural pathways that go unused. His worldview seems to have much in common with Eisenstein (/Printing Press as an Agent of Social Change/) Marx, and possibly also Kitler, who all to a greater or lesser extent see history as determined by cultural adaptation to technology. (Kathleen Fitzpatrick resists this determinism.)
+Much literature on the shift from page to screen is concerned with the affordances and limitations of human cognition in new digital contexts. Arguably the ur-text here is Marshall McLuhan's /Gutenberg Galaxy/. McLuhan's primary concern is the extension (or overextension) of human capabilities and the corresponding atrophy of those capacities that are lesser used. He cites Popper's /THe Open Society and Its Enemies/ in claiming that the project of the ancient world was to destroy tribalism or provincialism and to deal in abstractions that efface difference, such as currency and literature. However, according to McLuhan, modern technology is returning us to tribalism by extending our senses to people around the globe. This is his central idea of the "global village," which denotes a shift from visual culture (necessitated by the technology of writing) back to orality, or a culture based on aural communications. We live in an "electric, post-literary" world, though for McLewhan the technologies he's concerned with include jazz and television, not Facebook and YouTube. McLuhan draws on the work of social scientists that indicate human dependence on closure in completing tasks and the pruning of neural pathways that go unused. His worldview seems to have much in common with Eisenstein (/Printing Press as an Agent of Social Change/) Marx, and possibly also Kitler, who all to a greater or lesser extent see history as determined by cultural adaptation to technology. (Kathleen Fitzpatrick resists this determinism.)
 
-WALTER ONG
+Walter Ong, who worked briefly with McLuhan as a student, is less concerned with the "typographic man" but rather with an orality that has been effaced by literacy (not just print culture) and neglected by scholars. Working in the same area as McLuhan but not givin to "gnomic pronouncements" (Ong's term for McLuhan-esque phrases such as "the medium is the message"), Ong sees literacy as a totalizing force that adheres everything to itself. Those who are literate cannot see past their own literacy, often perceiving orality as a subset or type of literacy. The biggest crime for Ong is using terms like "oral literature," which refuses to see orality on its own terms but instead chauvanistically observes it through the lens of literacy. Ong discusses the unearthing of oral technologies such as the Homeric epithet by Milman Perry, who rescued the study of orality from the tendency to relate Homer (fallaciously) to contemporary poets and especially to the Romantic ideal of /ex nihilo/ creativity. He also relates perceived disjuncts between magic and science or Western and non-Western thought to the half-understood break between orality and literacy. Orality for Ong is immediate and pares down reality to that which is meaningful, group history is altered to fit the present and stories evolve to keep the group perpetually centered in a meaningful present. Literacy fosters distance and abstraction and (in the argument of Julian Jaynes) cuts humanity off from a bicameral cognitive system in which one half of the mind is attunded to the gods.
 
 Benkler, too, is concerned with cognition and the ways technology suggests new modes of human interaction. This concern, however, is bound up in the topology or quasi-spatial structure of digital "geography" and the internet in particular, a concern shared in different forms by many other scholars straying into the realm of new media. Benkler's basic thesis is that the decentralizing nature of digital spaces is democratizing, a thesis that has largely not been borne out in recent years (at least not in the larger population, in local communities of practice such as the FOSS community his observations have to a great extent come to pass). More interesting are his observations about the two forms of scarcity that limit communication in general. These are computation and communications resources, the cost of which has been dramatically lowered by the internet, and human creativity and attention, which is still a limited resource. Benkler focuses primarily on the predicted effects of lowering transaction costs—that is, a pool of human creativity unimpeded by high transaction costs will produce the highest quality creative outputs, especially when unimpeded by frictions such as assigned monopolies (copyright, etc.) or old-style markets. Benkler is not wrong about his theory of a new "feasibility space" that allows ad-hoc communities of "commons-based peer production" to spring up. Wikipedia and the FOSS community are two examples of largely self-organizing communities based on peer production. The missing element here is that the possibility space facilitated by lowering transaction costs (often by creating a new platform) puts enormous power in the hands of the originator of the platform. This has been seen in the dramatic rise of siloed user ecosystems (closed gardens). By lowering transaction costs in communication and computation, organizations such as Facebook, Twitter, Apple (the app store), and Slack have co-opted digital publics such as personal home pages, self-hosted blogs, group email, and IRC, locking communities into closed environments and capturing the value generated by their creative outputs. Lowered transactions costs are indeed democratizing and generate enormous wealth, but platform originators have the option to become rent-seekrs, siphoning value generated by communities of peers and centralizing, rather than decentralizing, mass gathering of information. Organizations like GitHub (who knows for how long)  and Wikipeidia also show, however, that that platform originators can choose to capture less value, and it is in these organizations that Benkler's dream of democratic networks is kept alive. Recent developments such as the Colony startup and the DAO (Digital Autonomous Organization) are also developments that seem to arise from the forces that Benkler outlined.
 
@@ -198,6 +198,23 @@ impressed with the possibilities of Google Books but concerned about the monopol
 
 
 * book notes
+** Digital Memory and the Archive(Wolfgang Ernst)
+thesis: the archive is not remote, but ubiquitous. media archology is one way to understand this new archive, despite the fact that the new archive is a contested space that resists intrusion and interpretation
+
+there is a historial break in media when light was technologized (crystal palace, photography)
+
+photography is "writing with light", reminds me of the observations in Track Changes about writing with light on screens
+
+heidegger calls new forms of communication and indexing "the essence of historicism itself"
+
+the archive as the store of history is dependant on the medium of transmission
+- some media are excluded from history, such as the diorama, because of their incompatibility with the archive
+
+engraving is an act of interpretation. photography is inherently indexical
+
+really interesting!: antequarianism acknowledges the past as hardware. historical discourse treats the past as software.
+- where does that leave book history? bibliography?
+
 ** Orality and Literacy (Walter Ong)
 book is interested in primary orality, which is orality in cultures untouched by literacy
 
@@ -217,6 +234,8 @@ Milman Perry: observed that Homeric poetry is a technology for memory. virutally
 - the larger works are also composed out of strict themes
 - the Homeric poems actually use their own special form of Greek with its own formulas, similar to the English special formulas for fairy tales
 
+much that came after Homer in Greek culture was antagonistic to this technology ("a drought not of memory but of forgetting")
+
 orality has been considered as a varient of literacy or as beneath scholarly attention
 
 secondary orality - a return to orality with television, radio, etc. (now also memes, audiobooks)
@@ -224,6 +243,20 @@ secondary orality - a return to orality with television, radio, etc. (now also m
 lingusists hadn't really contrasted primary orality with literacy
 
 of the tens of thousands of languages in human hisotry only a little over 100 have what could be called a literature. most haven't been written at all
+
+
+the often-cited discinction between magic and science can actually be better explored as the difference between orality and literacy
+- differences between western culture and others can often be attributed to how much the culture has internalized literacy and its accompnaying habits of mind (abstraction, distance)
+- Julian Jaynes has a theory of the bicameral mind...before writing, the mind was split, the right half talked to the gods and the left half interpreted that into language. Jaynes marks Odysseus as a point marking the breakdown of this bicameral system between 2000 and 10000 BC.
+
+
+oral culture is immediate, pared down to the necessary. writing allows for distance
+
+formulae  are used extensively in oral cultures (aphorisms, sayings)
+
+oral culture is agonistic, defined by binaries such as good and evil
+
+
 
 ** Reading Machines (Ramsey)
 civilization advances due to the number of important advances that we can do without thinking about them -Alfred North Whitehead
@@ -700,3 +733,5 @@ what would mcgann say about hypertext
 
 boosterism and the jeremiad are the main genres of writing about technology, especally communications
 
+* other
+lavater - facial studies and silhouettes
