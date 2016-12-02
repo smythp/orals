@@ -1,65 +1,86 @@
-* books and forms
+* discussion points overview
 
-The book has an inherent authority by virtue of being a document (/Paper Knowledge/, Lisa Gitelman) and due to the inherent authority and stability of print (/Writing Space/, Bowlter), but that authority is dependent  on context. Three approaches to the historical and formal situation of books, examining their production, dissemination, and reception, are "historical comprehension" (Chartier, /Forms and Meanings/) paratextual theory (Genette, /Paratexts/), and the social edition (McKenzie, /Bibliography and the Sociology of Texts/). McKenzie, Chartier, and Genette make for an interesting study: McKenzie the bibliographer, Chartier the historian an, and Genette the hermeneuticist. They are all concerned with forms and meanings (as Chartier's book is titled). The subtitle to /Paratexts/ in the English translation is, aptly, /Thresholds of Interpretation/, and thus is also concerned with the form ("thresholds") and meaning ("interpretation") of a received work.
+** Bibliography
+- tracing bibliography from the copy text to the modern digital social edition
+- Cover the Greg, Bowers, Tanselte eclectic approach and the reactions by McGann and McKenzie
+- Touch on how bibliography is extended into digital spaces (Siemens with the digital social edition, Darnton on the Google Book (non)approach to bibliography.
+
+** Determinism and historicism
+- Engage the question of whether technology (here primarily represented by print culture) determines cultural change (McLuhan, Eisenstein, Walter Ong with literacy instead of print culture) or whether print culture itself is culturally and historically determined (Johns, Fitzpatrick, Chartier insofar as he historicizes book history and print culture).
+- McLuhan and Eisenstein often mischaracterized or treated reductively, though Johns's historical approach generally more persuasive and arguably more productive
+- Historicization of book history by Johns and Chartier influenced the move away 
+
+
+** Topology
+- how is the digital different in terms of space and (especially) relationships?
+- Bolter's definitions of hypermediacy and hypertext (flexible, interactive, iterative). Benkler's optimistic approach to networks (democratic, effects of low transaction costs), Piper (concrete physical interactions, i.e. children in bed, presence ("graspability") of print book, digital as stream), Nelson (two-way links, preserving context), Moretti (mapping relationships, segue into distance and alternative reading practices), Jones on the eversion and the real-world geography of the digital
+** Alienated reading
+- how have we had to rethink reading in light of new approaches that build on, discard,  or transcend traditional close reading?
+- non-reading as reading (Pierre Bayard, /How to Talk About Books You Haven't Read/), /Death of the Author/ as not only a reaction against intentionalism but also an attempt to escape the tyranny of the fixed relationship
+- distant reading and macroanalysis (Moretti, Jockers)
+- Ramsey shows the way (algorithmic criticism, pataphysics, deformance), also his approach helps prevent the dramatic reactions that happened in textual criticism after they overstated methodological claims
+
+
+
+Stallman and Lori Emerson: restoring hackability and access
+
+** Media Archeology
+Kirschenbaum's /Mechanisms/
+
+** Free Books, Free Society
+- thinking critically about the challenges that we face in opening up scholarly publishing
+- traps (Stallman's identification of proprietary softare as a trap, Lori Emerson's understanding of ubicomp and the invisible GUI as traps, Darnton and Fitzpatrick's articulations of the current trap in scholarly publishing, Darnton's analysis of Google Books as a potential trap)
+- ways forward (Benkler's networks of peers such as wikis and FOSS, the GNU viral model esp. as articulated by Dexter, Fitzpatrick's post-publication peer review, keeping print around as articulated by Darnton, Piper, Matt's Manifold, others, recursive and affective publics by Chris Kelty and Henry Jenkins)
+
+
+
+* descriptive ntoes
+** bibliography
+
+W. W. Greg
+
+advocated eclectic editing. divided text into substantive component and accidentals. disputed the prevailing idea of the copy-text, or a chosen text that serves as the basis of an edition, thinking the editor should work toward a more idealized version of the text based on substantive components. the copy-text would really only be used as a tie-breaker if the editor's vision of the text does not apply to a particular discrepency (called "indifference". The eclectic appraoch is usually associated with authorial intentionality because in look at the substantive component you're decidiing what the author indended to be there as opposed to accidentals, which the author didn't care about.
+
+Bowers
+
+Applied Greg's appraoch (electic) in practice (Greg didn't live long enough). Believed the bibliographer should study the book as an object and that the signs in the book should be considered merely as icons independent of semantics. (descriptive bibliography, didn't consider historical bibliography to be part of bibliography). G. Thomas Tanselte continued these eclectic practices in the 70s.
+
+Jerome McGann
+
+In his Critique of Modern Textual Criticism, conceived the idea of the social edition (independent but seemingly simultaneous with McKenzie). Social edition is an edition that should reflect the fact that a text is constructed not only by the author, but the society. This includes not only the milieu of the  author, but the ongoing historical reception of the text and the work of the printers, publishers, etc. in the creation of the text.
+
+
+
+Approaches
+
+copy-text - one version of the text is used as the basis of an edition. Erasmus was the first to practice this (Greek New Testament).
+
+eclectic - attempts to create a text as close as possible to the intention of the author. the stuff the author cares about is substantial, the rest is accidentals. refer to a copy-text only with accidentals, otherwise follow a vision of what the editor thinks the author's intention is
+
+social edition - a reaction to the fetishization of the author. developed independently by McGann and McKenzie (according to Greetham). Acknowledges the wide variety of sources of influence on a text, deemphasizes authorial intentionality. 
+
+dynamic text - nonlinear treatment of the text advocated by ray siemens, uses tools such as concordance and other text analysis techniques. combines text with tools.
+
+digital social edition - not really using the term social edition the same way, social more in a web 2.0 way
+
+Google Books approach - an approach to bibliography in which you remain completely innocent of bibliography and regard texts as content and books as sources of content (discussed by Darnton)
+
+** books and forms
+
+Three approaches to the historical and formal situation of books, examining their production, dissemination, and reception, are "historical comprehension" (Chartier, /Forms and Meanings/) paratextual theory (Genette, /Paratexts/), and the social edition (McKenzie, /Bibliography and the Sociology of Texts/). McKenzie, Chartier, and Genette make for an interesting study: McKenzie the bibliographer, Chartier the historian an, and Genette the hermeneuticist. They are all concerned with forms and meanings (as Chartier's book is titled). The subtitle to /Paratexts/ in the English translation is, aptly, /Thresholds of Interpretation/, and thus is also concerned with the form ("thresholds") and meaning ("interpretation") of a received work.
 
 Chartier's primary concern in /Forms and Meanings/ is the milieu of reception, which can differ widely within a historical situation. The play /George Dandin/ (1668) by Molière, for example, was presented first at Versilles to celebrate the victories of Louis XIV  and then in the urban theaters of Paris, entirely different milieu with different modes of reception. Chartier contends that "no work has any meaning outside of the varied forms that offer it for decipherment." For Chartier, form extends beyond materiality or the physical embodiment of a work and necessarily includes historical and cultural frameworks of reception. For him, readings that conflate distinct groups ("the popular reading") or readings that ignore historical or material situation (New Criticism, arguably readings dependent on potentially anachronistic readings such as Marxism) are suspect. For Chartier, the new difference between print and screen is actually more significant than the revolution that took place after the rise of the printing press. For him, this new seed change is different because the shift to print did not change the fundamental form and structure of the book, though it did affect the contexts in which books were produced, disseminated, and received. As Bowlter also later observes, the shift to digital modes of writing changes how we structure and organize writing, not only the environment(s) in which it is consumed.
 
-In /Paratexts/ (the literal translation of the title is  /Thresholds/), Genette proposes another methodology for analyzing the production, dissemination, and reception of texts. The approach outlined in /Paratexts/ is one that relies on formal properties that instantiate a book as a literary and cultural object. Unlike Chartier, who focuses on communities of readerly consensus that alter the reception of a work in shifting historical and cultural contexts, Genette's interest lies in a book's garments (the cover, the inscription, the insert, the typesetting) and adornments (the title, the author's name, the epigraph or epigraphs). For Genette, context is local—the text is framed for reception by these paratexts, which provide an entrée to the text itself and which independently suggest modes of reading and interpretation. In fact, /Paratexts/ is distinguished from a work of book history (which it firmly is not, despite its subject matter), by its attendance on hermaneutics. /Paratexts/ is a critical work, and one focused on a relatively narrow subset of contemporary Western, mostly Francophone and Anglophone, literature. While this could be considered a limitation of the work, in delving into critical engagement with paratext in every chapter Genette provides a model for reading paratextually that is more concretely realized than, say, McKenzie's purely theoretical presentation of his vision for the social edition.
+In /Paratexts/ (the literal translation of the title is  /Thresholds/), Genette proposes another methodology for analyzing the production, dissemination, and reception of texts. The approach outlined in /Paratexts/ is one that relies on formal properties that instantiate a book as a literary and cultural object. Unlike Chartier, who focuses on communities of readerly consensus that alter the reception of a work in shifting historical and cultural contexts, Genette's interest lies in a book's garments (the cover, the inscription, the insert, the typesetting) and adornments (the title, the author's name, the epigraph or epigraphs). For Genette, context is local—the text is framed for reception by these paratexts, which provide an entrée to the text itself and which independently suggest modes of reading and interpretation. In fact, /Paratexts/ is distinguished from a work of book history (which it firmly is not, despite its subject matter), by its attendance on hermaneutics. /Paratexts/ is a critical work, and one focused on a relatively narrow subset of contemporary Western, mostly Francophone and Anglophone, literature. While this could be considered a limitation of the work, in delving into critical engagement with paratext in every chapter Genette provides a model for reading paratextually that is more concretely realized than, say, McGann or McKenzie's purely theoretical advocacy for the social edition.
 
 In /Bibliography and the Sociology of Texts/, McKenzie attempts to expand the field of bibliography beyond a concern with a search for authority (or autography) or the purely inductive study of books as historical objects. From his position as bibliographer, McKenzie looks outward at other forms, suggesting that the methods used in bibliography could be applied to other texts such as film, oral texts, images, and "computer generated files." At the same time, he also asks bibliographers to look outward at historical cultures of production, pulling into bibliography the trade practices of printing houses and the material and formal conventions of genre. McKenzie here is pushing back against two bibliographic traditions in particular: enumerative (or taxonomic) bibliography and descriptive (or book-as-object) bibliography. To a lesser extent, he is also resisting textual bibliography, or the creation of an authoritative text or autograph from one or more corrupted forms. (All of these are forms of analytical bibliography.) Like Chartier (who wrote the forward to the French edition), McKenzie is concerned with context. Indeed, Chartier and McKenzie differ not so much in their conclusions or the endpoints of their arguments. but more in their points of origin. McKenzie, as a bibliographer, is concerned with augmenting the tradition of historical bibliography (the general study of books and reading over time), and his antagonist or straw man is Bowers, who wishes to amputate historical bibliography from bibliography and who regards the text as interesting to bibliographers only as iconography, not for any semantic content. Chartier, as a historian, champions granular historicity and holds as his enemy readings that conflate periods or cultures of reception.
 
 Add Greetham
 
-* Screen Reading: The New (Re)Formalism
+** screen reading
 
-Three vectors provide ways to engage differences between print and digital culture and the distinctions in reading practices between page and screen. These are cognition, topology, and materiality.
-
-Much literature on the shift from page to screen is concerned with the affordances and limitations of human cognition in new digital contexts. Arguably the ur-text here is Marshall McLuhan's /Gutenberg Galaxy/. McLuhan's primary concern is the extension (or overextension) of human capabilities and the corresponding atrophy of those capacities that are lesser used. He cites Popper's /THe Open Society and Its Enemies/ in claiming that the project of the ancient world was to destroy tribalism or provincialism and to deal in abstractions that efface difference, such as currency and literature. However, according to McLuhan, modern technology is returning us to tribalism by extending our senses to people around the globe. This is his central idea of the "global village," which denotes a shift from visual culture (necessitated by the technology of writing) back to orality, or a culture based on aural communications. We live in an "electric, post-literary" world, though for McLewhan the technologies he's concerned with include jazz and television, not Facebook and YouTube. McLuhan draws on the work of social scientists that indicate human dependence on closure in completing tasks and the pruning of neural pathways that go unused. His worldview seems to have much in common with Eisenstein (/Printing Press as an Agent of Social Change/) Marx, and possibly also Kitler, who all to a greater or lesser extent see history as determined by cultural adaptation to technology. (Kathleen Fitzpatrick resists this determinism.)
-
-Walter Ong, who worked briefly with McLuhan as a student, is less concerned with the "typographic man" but rather with an orality that has been effaced by literacy (not just print culture) and neglected by scholars. Working in the same area as McLuhan but not givin to "gnomic pronouncements" (Ong's term for McLuhan-esque phrases such as "the medium is the message"), Ong sees literacy as a totalizing force that adheres everything to itself. Those who are literate cannot see past their own literacy, often perceiving orality as a subset or type of literacy. The biggest crime for Ong is using terms like "oral literature," which refuses to see orality on its own terms but instead chauvanistically observes it through the lens of literacy. Ong discusses the unearthing of oral technologies such as the Homeric epithet by Milman Perry, who rescued the study of orality from the tendency to relate Homer (fallaciously) to contemporary poets and especially to the Romantic ideal of /ex nihilo/ creativity. He also relates perceived disjuncts between magic and science or Western and non-Western thought to the half-understood break between orality and literacy. Orality for Ong is immediate and pares down reality to that which is meaningful, group history is altered to fit the present and stories evolve to keep the group perpetually centered in a meaningful present. Literacy fosters distance and abstraction and (in the argument of Julian Jaynes) cuts humanity off from a bicameral cognitive system in which one half of the mind is attunded to the gods.
-
-Benkler, too, is concerned with cognition and the ways technology suggests new modes of human interaction. This concern, however, is bound up in the topology or quasi-spatial structure of digital "geography" and the internet in particular, a concern shared in different forms by many other scholars straying into the realm of new media. Benkler's basic thesis is that the decentralizing nature of digital spaces is democratizing, a thesis that has largely not been borne out in recent years (at least not in the larger population, in local communities of practice such as the FOSS community his observations have to a great extent come to pass). More interesting are his observations about the two forms of scarcity that limit communication in general. These are computation and communications resources, the cost of which has been dramatically lowered by the internet, and human creativity and attention, which is still a limited resource. Benkler focuses primarily on the predicted effects of lowering transaction costs—that is, a pool of human creativity unimpeded by high transaction costs will produce the highest quality creative outputs, especially when unimpeded by frictions such as assigned monopolies (copyright, etc.) or old-style markets. Benkler is not wrong about his theory of a new "feasibility space" that allows ad-hoc communities of "commons-based peer production" to spring up. Wikipedia and the FOSS community are two examples of largely self-organizing communities based on peer production. The missing element here is that the possibility space facilitated by lowering transaction costs (often by creating a new platform) puts enormous power in the hands of the originator of the platform. This has been seen in the dramatic rise of siloed user ecosystems (closed gardens). By lowering transaction costs in communication and computation, organizations such as Facebook, Twitter, Apple (the app store), and Slack have co-opted digital publics such as personal home pages, self-hosted blogs, group email, and IRC, locking communities into closed environments and capturing the value generated by their creative outputs. Lowered transactions costs are indeed democratizing and generate enormous wealth, but platform originators have the option to become rent-seekrs, siphoning value generated by communities of peers and centralizing, rather than decentralizing, mass gathering of information. Organizations like GitHub (who knows for how long)  and Wikipeidia also show, however, that that platform originators can choose to capture less value, and it is in these organizations that Benkler's dream of democratic networks is kept alive. Recent developments such as the Colony startup and the DAO (Digital Autonomous Organization) are also developments that seem to arise from the forces that Benkler outlined.
-
-For Andrew Piper (/Book Was There/), the topology of reading is more personal, having more to do with the human contours of the body (especially the hand) than Benkler's sweeping concern with the "industrial information economy." Piper lingers on the distinctions in relative intimacy between print and the screen. Pages are important to Piper—they represent a distillation, a conscious paring down (he quotes /The Orchid Thief/ on the passion necessary to distill something to a page). Digital, however, is a stream, and you can never stand in the same stream twice. There is no lingering or domestic scenes with the digital, no balancing the ereader in one hand to read with two children in a bed. Instead, in the digital world we are "nomads wandering a plain" or sleepwalkers meandering on the web. Piper believes there is too much *!$% on the screen, and would have us think more about the architecture of the text—that is, how it is presented, and what surrounds it—and less about technology. He points to projects like Text Rain that return the /graspability/ (physical and spiritual) of the printed book to the digital. Piper is deeply suspicious of both boosterism/utopianism (he probably wouldn't like Benkler) and the crotchety jeremiad. His approach has more to do with Montaigne and classical position of the reflective observer than the stance of the historian, the theorist, the polemicist, or the bibliographer.
-
-
-
-
-
-FOSS = radically decentralized modes of production 
-interesting in light of Colony and the DAO (block chain backed utopian projects)
-
-
-the internet as a place is interesting in lght of utopian theory (the topology of the internet, utopian rhetoric in Nelson and Benkler)
-concerned with lowering of tranaction costs
-- two scare resources: human attention and communication/computation
-- he figured the lowering of costs of communication would lead to democratization online, but it was the human attention that was the real bottleneck and (in my opinion) led to the rise of the walled garden
-
-
-
-
-
-
-
-
-
-
-
-
-
-for bowlter, to say that somethign is flexible and interactive is to say that it is hypertextual
-hypertext = text that is flexible and interactive (and to that he adds iterative, links lead to links lead to links)
-the fact that he has to provide an explanation of hypertext in the context of the web is telling (book written in 2001)
-
-for Bowlter, hypertext is about topography
-- he talks about word processing under the topic of hypertext, i.e. moving text around and thinking about headings/topics
-- uses the term "flattening" to describe the movement from data structure to a linear visual display
-- talks about "outline processors," which allow one to edit and move around headings or topics and not just words (what word processor actually did this? i know scrivener does)
-
-
-Chartier observed in 1995 that the move from print to screen was larger than the move from manuscript to print because this revolution changes the methods of organization
-* Freedom
-** Planned Obsolescence (Kathleen Fitzpatrick)
+* book outlines (longer notes below)
+** Planned Obselescence (Fitzpatrick)
 wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community appraoch (academics need to be helpful to each other)
 we need to let go of the idea that each voice is a voice alone
 wants to privelage the process of discussion and revision, not publication\
@@ -90,9 +111,6 @@ public peer review deters authors from submitting substandard manuscripts, savin
 
 
 
-* outline
-
-** Planned Obselescence (Fitzpatrick)
 thesis: we need to face social and instittutional problems in academia before we can fix scholarly publishing
 talks about "the reputation economy" (waffi in /Down and Out in the Magic Kingdom/
 credientialism is interfering with the move to digital
@@ -149,6 +167,10 @@ Wants to look at the commonality in the production of all kinds of media, but ac
 ** Reading Writing Interfaces (Lori Emerson)
 Dislikes magic, or the hiding away of what's actually going on behind slick interfaces
 
+"invisible" and "natural" are (overly positive) words used unthinkingly to describe new interfaces
+
+ubicomp (ubiquitous computing) is that paradigm she reacts against
+
 ** Book Was There (Andrew Piper)
 thesis: Reflection on reading in an age of screen ascendency. Written loosely, like a classical essay.
 tries to navigate between book history and media studies
@@ -181,7 +203,6 @@ reading assumes topology: print is domestic, digital =reading we're "roaming acr
 
 Goethe: "It would be a lowly art that allowed itself to be understood all at once"
 
-
 ** Wealth of Networks (Benkler, 2006)
 thesis: networks are democratizing
 we live in "industrial information economy"
@@ -191,14 +212,39 @@ book itself was a demonstration of online collaboration, released on Creative Co
 four types of commons: open or closed  (highway, old pasture is open) and regulated or unregulated commons (air is regulated)
 weakness of the book (my opinion) is optimism about platforms
 ** The Case for Books (Darnton)
+every age is an age of information, and information is always unstable
+- news has always been unstable (tells story of trying to find a printable news story and being told that a rape/homocide was unprinable because the victims were black)
+- information has never been stable. texts are always mutable
+
+voltaire toyed with his texts so much that his printers and publishers got pissed off. (collaborated with pirates)
+
+to modern students, information appears to be all online, not in the library
+
+can google put all other sources of information out of business. Darnton says no:
+- how many books can they really digitize? (not enough)
+- 
+
+
+invokes the enlightenment to describe both the potential of new entities such as wikipedia, the internet archive but also to invoke how far we've come from the original purpose of copyright
+
+fears that what happened with academic journals could happen with google books
+
+google books is a locus for a utopian vision of a world library and also of a dystopian future
+
 his trajectory was academia > journalism > harvard library > google books
 impressed with the possibilities of Google Books but concerned about the monopoly
 
 
 
+* book notes 
+** The Nature of the Book (Adrian Johs)
+book is an argument against the technological determinism of Eisenstien and McLuhan
 
-* book notes
-** Digital Memory and the Archive(Wolfgang Ernst)
+the sotry eof the stability of print began with printers in the 16th century who even then benefitted from the perception that print was stable
+
+our perception of the stability of print is a result of work over generations, work that has largely been forgotten (as opposed to something inherent to the technology of print)
+
+** Digital Memory and the Archive (Wolfgang Ernst)
 thesis: the archive is not remote, but ubiquitous. media archology is one way to understand this new archive, despite the fact that the new archive is a contested space that resists intrusion and interpretation
 
 there is a historial break in media when light was technologized (crystal palace, photography)
@@ -258,6 +304,34 @@ oral culture is agonistic, defined by binaries such as good and evil
 
 
 
+"the effect is not hte immediate apprehension of knowledge, but ... estrangement and defamiliarization"
+
+points to Potter, Gottschald, and Moretti as advocates of a scientific approach to text analysis
+- ramsey refutes this by pointing out that everything in this debate is treated as a rhetorical object except the data, which is largely unexamined (data fetishism)
+
+hermaneutics isn't concered with the kind of methology you see in science, but it is concerened with truth reached through a dialectic process
+- literary criticism isn't about facts. it's about a web of discourse
+
+so how do we deal with the break between the hermaneutic mode and the model of coputation used in text analysis? 
+
+it's tempting to use distant reading methodologies like TF/IDF to confirm or deny readings arrived at through traditional means. but then you have to question TF/IDF...why would it be considered more valid a reading than the traditional one?
+
+"a scientific literary criticism would cease to be criticism"
+- the goal is fundamentally different. science looks for one answer. the purpose of criticism is actually the oppisite, to generate multiple meanings in a dialogue with one another. the more fecund an approach in generate debate, the more successful
+
+ramsey's way forward here is to acknowledge the way "normal" criticism deforms the text. all readings are based on a heruistic approach to the text by definition. text analysis provides another way of deforming or carving a path through a text that isn't necessarily less valid
+- if you say "turn to page 112" or if you say "consider the novel in relation to Jacobin theater," you're deforming the text
+- witgenstein: "we see an aspect that further enables discussion and debate"
+- the computer can discover or uncover features in a consistent, rigidly holistic manner
+
+it's not just about reproducability (or shouldn't be). text analysis should also be about hackability
+
+
+introduces padaphysics as a third way between hermaneutic discourse and scientific discourse
+- science of the imaginary
+- not about the terrorism of a unified theory but about the anarchism of an amplified theory
+- padaphysics introduced around the same time as the thought experiment, a technique that responses to scientific crisis (Maxwell's Demon, Einstein flying through space)
+
 ** Reading Machines (Ramsey)
 civilization advances due to the number of important advances that we can do without thinking about them -Alfred North Whitehead
 in interpreting distant reading data, we need we need hermaneutics
@@ -289,6 +363,7 @@ the implication of the semintality detector is interesting
 
 part of the problem with algorithic criticism is how unconcerned the disciplines of the humanities are with methodology
 - "there's a toy in my essay" points out the rhetorical problems with using text analysis results in an essay or arugment, suggests that a doubled model might be necessary
+
 
 ** Wealth of Networks (Benkler)
 networks are democratizing
@@ -654,33 +729,32 @@ John Barth: "Coming soon!!!" about man obsessed with hypertext, ordered in hardc
 
 /The Mechanic Muse/ (Kenner)
 
-* questions
-- There is a rhetoric of progress that applies particularly to technology and the emergence of new media that suggests that present technology is an inevitable product of past technology. Why should we be suspicious of this rhetoric? What trends are not progress but "retrograde movement" (to use a military euphemism)? Are there points of inflection in which technology was at an "Anderweg," another path that it could have taken? Thinking about Nelson's /Dream Machines/, Stallman's /Free Software, Free Society/, Emerson's /Reading Writing Interfaces/.
-- How does the concept of aura apply (or not apply) in an age of digital, rather than mechanical,  reproduction?
-Think about Kitler and the interchangability/fluidity of the digital
-Do networks have aura?
-With a (chemical) photograph, you feel a lack, a comparison with the painting. What lack do we feel with modern digital media? Thinking about ebooks, Facebook vs myspace, etc
-Does vinyl have aura?
-- Some of the writers on the list (Kirschenbaum) combine technical rigor with a humanistic sensibility. Others are more focused on one domain (Kitler and technology, McLuhan, many others on the human). Do you think there is a Two Cultures problem in new media discourse? How important is it to understand and/or reconcile technical detail and experiential or cultural understanding?
-seems to be more room for the humanistic in the technical: chaos theory (kitler and gleick, conrad's game of life), quantam theory, AI and neural networks, etc all "problemetize the computaitonal model" (kitler intro)
+** Nature of the Book
+A book is almost like a promise. the author is to have written it, the edition on the cover should be the correct edition. you are free to carry it and lend it and read itk but not to reproduce it (mostly)
+- this is all due to the fact that we live in print culture
+- in our world, all these characteristics are a given
+- because these things are so reliable, we ascribe them to the underlying technology of the book...somethig about print is responsible for it
 
-Kitler: "drive the human from the humanities"
-- How should we understand the process of encoding (relating to writing, cryptography, modern media theory)? Does it change our cognition? Is it colonial (Kitler and Dracula)?
+this book argues that the aboce is false, that the technological view of print is the main force resisting a truly historical understanding of print culture
+- veracity is extrinsic to the press itself and has had to be grafted onto it
 
-- How do you characterize the word "digital"—historically, rhetorically, and practically? Is all writing digital (Bolter, Writing Spaces)? How does the digital intersect with the "marvelous" and the "wonderous" (Reading Writing Interfaces (Lori Emerson)?
-Chartier reminds us that all writing has a material component, as does Pipes
-- How important are distinctions between data and process (von Neuman architecture, J. L. Austin's /How to Do Things with Words/) Think about ebooks, games. Do these thigns exist without a human subject? Think also about object-oriented ontology (and state/method from object oriented programming)
-Are we becoming less literature? How does rading interact with ouur cognition? What is the relationship between books and screens? (/Book Was There/
+"the very identify of print itself has had to be made"
 
-What is the position of hypertext fiction? Comeback?
+print culture as we know it is the product of a labor over many generations that has now largely been obscured
 
-What is the relationship between digital humanities and new media studies?
+the book is an embodiment of a collective consent, as many are involved with creating a modern book
 
-How do ideas from book history such as patronage affect the modern writing, publishing, and consumption of texts?  and How does the form still constrain the production of meaning and its dissemination? Forms and Meanings (Chartier)
-- what is the modern equivelant of the dedication?
-- how do online communities of practice and heterodox hermaneutics affect the consumption of works? thinking of /Homestuck/ and /Undertale/. This literature is an event, it cannot be archived, unlike the Agrippa files, which has largely been archived.
+as evidence of the historical rather than technological basis for print culture, Johns points to places where piracy rather than the stability of print are the norm
+- not only that, but ideas about the "proper" way to make and disseminate books varied from place to place and from period to period
 
-* speech
+the position that print is inherently stable is a deliberate one, has been put forth since the 16th century by printers
+- "printers stood to gain from what was once a contentious argument"
+
+** theories of the text (greetham)
+
+a criticism of McGann's advocacy of a social practice of scholarly editing (social edition) is that his crticisms are purely negative; that is, they don't propose anything to replace the existing editioral paradigm (which centered around the copy-text, i.e. refining a selected version of a text)
+
+* speech quotes
 Pick up a modern book. This one will do: the one you are looking at right now.
 
 books both powerful and dangerous:
@@ -689,49 +763,24 @@ books both powerful and dangerous:
 
 "Although it is very difficult to avoid all prediction (in practice, to avoid writing in the future tense), it should nevertheless be possible to resist the impulse to unify—to avoid merging individual predictions into a synthesis that is supposed to represent the one, true future. We should instead treat the predictions of both the enthusiasts and the critics as part of the ambiguous present that constitutes the late age of print. Their predictions reflect the struggles among various cultural factions that are trying to work out the relationship of digital technology to its predecessors. "
 (from Bowlter)
-* talk with matt
-add new matt kirsxhenvaum book
-* areas:
-** book history/bibliography
-** early hypertext theory
-(boulter, benkler, mcgann)
+* connections to utopianism
+estrangement (distant reading, suven's distance)
 
-** interfaces/platforms
-Emerson, Textual Media
-** books and freedom
-
-talk about the levels on which we engage with books
-
-- as object
-- as social construct
-
-text
-- text as locus of interpretation ("There is nothing outside of the text." Derrida)
-- text as encoded data, the subject of computation (Moretti, Jockers)
-- text as object 
-
-
-positivism in bibliography
-
-- relate to positivism in digital humanities[[file:~/1][file:~/1]]
-
+boosterism and the jeremiad are the main genres of writing about technology, especally communications
 * concepts
 
 ** literature is the fragment of fragments
 goethe
 means that only a tiny portion of history or occurances makes it into literature
 
-
-* references for hacksessability article
-look up /The Visible Word/, Johanna Drucker
-
-
-
-what would mcgann say about hypertext
-
-* connections to utopianism
-
-boosterism and the jeremiad are the main genres of writing about technology, especally communications
-
-* other
+** other
 lavater - facial studies and silhouettes
+rosanne potter - had the view that text analysis should use scientific methods
+jonathan gotchald - wrote "measure for measure" article, suggests that literary criticism is moribund and needs practices from the sciences used with text analysis
+
+
+
+
+
+
+
