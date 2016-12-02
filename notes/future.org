@@ -4,37 +4,53 @@
 - tracing bibliography from the copy text to the modern digital social edition
 - Cover the Greg, Bowers, Tanselte eclectic approach and the reactions by McGann and McKenzie
 - Touch on how bibliography is extended into digital spaces (Siemens with the digital social edition, Darnton on the Google Book (non)approach to bibliography.
-
+- [[bibliography overview][bibliography notes]]
 ** Determinism and historicism
-- Engage the question of whether technology (here primarily represented by print culture) determines cultural change (McLuhan, Eisenstein, Walter Ong with literacy instead of print culture) or whether print culture itself is culturally and historically determined (Johns, Fitzpatrick, Chartier insofar as he historicizes book history and print culture).
-- McLuhan and Eisenstein often mischaracterized or treated reductively, though Johns's historical approach generally more persuasive and arguably more productive
-- Historicization of book history by Johns and Chartier influenced the move away 
-
+- Engage the question of whether technology (here primarily represented by print culture) determines cultural change (Eisenstein)  or human cognition (McLuhan)
+- McLuhan and typographic man. Eisenstein and the printing press. Walter Ong on literacy effacing orality.
+- Reaction to determinism via historicism. Johns direct criticism through historical analysis of print culture. Chartier uses method of historical comprehension to complicate unified vision of print culture. In digital context, Fitzpatrick resists seeing authorship as the product of a fixed technological process.
+- McLuhan and Eisenstein sometimes mischaracterized or exaggerated?
 
 ** Topology
 - how is the digital different in terms of space and (especially) relationships?
-- Bolter's definitions of hypermediacy and hypertext (flexible, interactive, iterative). Benkler's optimistic approach to networks (democratic, effects of low transaction costs), Piper (concrete physical interactions, i.e. children in bed, presence ("graspability") of print book, digital as stream), Nelson (two-way links, preserving context), Moretti (mapping relationships, segue into distance and alternative reading practices), Jones on the eversion and the real-world geography of the digital
+
+- Bolter's definitions of hypermediacy and hypertext (flexible, interactive, iterative)
+- Benkler's optimistic approach to networks (democratic, effects of low transaction costs)
+- Piper (concrete physical interactions, i.e. children in bed, presence ("graspability") of print book, digital as stream)
+- Nelson (two-way links, preserving context)
+- Jones on the eversion and the real-world geography of the digital
+- Moretti (mapping relationships, segue into distance and alternative reading practices)
 ** Alienated reading
 - how have we had to rethink reading in light of new approaches that build on, discard,  or transcend traditional close reading?
-- non-reading as reading (Pierre Bayard, /How to Talk About Books You Haven't Read/), /Death of the Author/ as not only a reaction against intentionalism but also an attempt to escape the tyranny of the fixed relationship
+
+non-reading as reading
+- Pierre Bayard, /How to Talk About Books You Haven't Read/
+- Barthes's /Death of the Author/ as not only a reaction against intentionalism but also an attempt to escape the tyranny of the fixed relationship
 - distant reading and macroanalysis (Moretti, Jockers)
 - Ramsey shows the way (algorithmic criticism, pataphysics, deformance), also his approach helps prevent the dramatic reactions that happened in textual criticism after they overstated methodological claims
-
-
-
-Stallman and Lori Emerson: restoring hackability and access
-
 ** Media Archeology
-Kirschenbaum's /Mechanisms/
-
+Kirschenbaum's /Mechanisms/, Kitler's /Information Systems/, Ernst's /Memory and the Archive/, Foucault's /The Archaeology of Knowledge/.
 ** Free Books, Free Society
 - thinking critically about the challenges that we face in opening up scholarly publishing
-- traps (Stallman's identification of proprietary software as a trap, Lori Emerson's understanding of ubicomp and the invisible GUI as traps, Darnton and Fitzpatrick's articulations of the current trap in scholarly publishing, Darnton's analysis of Google Books as a potential trap)
-- ways forward (Benkler's networks of peers such as wikis and FOSS, the GNU viral model esp. as articulated by Dexter, Fitzpatrick's post-publication peer review, keeping print around as articulated by Darnton, Piper, Matt's Manifold, others, recursive and affective publics by Chris Kelty and Henry Jenkins)
+
+traps
+- Stallman's identification of proprietary software as a trap
+- Lori Emerson's understanding of ubicomp and the invisible GUI as totalizing and inescapable
+- Darnton and Fitzpatrick's articulations of the current trap in scholarly publishing
+- Darnton's analysis of Google Books as a potential pitfall
+
+ways forward 
+- Benkler's networks of peers such as wikis and FOSS
+- Emerson's engagement of older hackable machines (Apple II vs. Lisa)
+- the GNU viral model esp. as articulated by Dexter
+- Fitzpatrick's post-publication peer review
+- alternative economic models (Doctorow's /Content/, Kelty's /Two Bits/)
+- keeping print around as articulated by Darnton, Piper, Matt's Manifold
+- recursive and affective publics by Chris Kelty and Henry Jenkins)
 
 
 * descriptive notes
-** bibliography
+** bibliography overview
 
 W. W. Greg
 
