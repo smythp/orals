@@ -81,19 +81,20 @@ Add Greetham
 
 * book outlines (longer notes below)
 ** Planned Obselescence (Fitzpatrick)
-wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community approach (academics need to be helpful to each other)
-we need to let go of the idea that each voice is a voice alone
-wants to privilege the process of discussion and revision, not publication\
-the fact that we still don't acknowledge collaboration is shown in the "literally unthinkable" idea of a multi-author dissertation
-remix-oriented scholarship might look more like editorial or curatorial work
+- wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community approach (academics need to be helpful to each other)
+- we need to let go of the idea that each voice is a voice alone
+- wants to privilege the process of discussion and revision, not publication\
+- the fact that we still don't acknowledge collaboration is shown in the "literally unthinkable" idea of a multi-author dissertation
+- remix-oriented scholarship might look more like editorial or curatorial work
 
-1. peer review
+*** ch 1: peer review
 "we police ourselves into irrelevance" - Cathy Davidson
 
-Wikipedia is an example of ongoing peer review, and is generally distrusted in the academy
-- if we cling to an outdated system of ascribing authority while the nature of authority changes around us, we will be left behind
-what she is NOT arguing is that peer review online has to be equivalent to peer review in print
-- this might help in the short term but will hobble the academy in the long term
+- Wikipedia is an example of ongoing peer review, and is generally distrusted in the academy
+- - if we cling to an outdated system of ascribing authority while the nature of authority changes around us, we will be left behind
+- what she is NOT arguing is that peer review online has to be equivalent to peer review in print
+
+this might help in the short term but will hobble the academy in the long term
 - /The Academic Self/, suggests that academics don't want to look too closely at their own methodology, won't want to know about the actual efficacy of peer review
 
 not pointed out by Fitzpatrick, but the terrifying thing about Wikipedia for academics is probably the fact that huge numbers of people will do academic work for free
@@ -102,16 +103,15 @@ not pointed out by Fitzpatrick, but the terrifying thing about Wikipedia for aca
 there is almost no study of peer review, and almost all of the study that exists is the social sciences, basically nothing in the humanities
 
 peer review is a "disciplinary technology" in the Foucaultian sense
-- peer review is self-perpetuating, the disciplined become the disciplines
+- peer review is self-perpetuating, the disciplined become the discipliners
 
 in science, there is such a thing as a repository of working papers
 - social paper is a good first step toward this in the humanities
 
 public peer review deters authors from submitting substandard manuscripts, saving editors from wading through a slush pile 
 
-
-
 thesis: we need to face social and institutional problems in academia before we can fix scholarly publishing
+
 talks about "the reputation economy" (waffi in /Down and Out in the Magic Kingdom/
 credientialism is interfering with the move to digital
 Slashdot
@@ -121,81 +121,93 @@ advocates moving to post-publication peer review from pre-publication peer revie
 she started Media Commons, which seems a lot like CUNY Academic Commons (Matt got a shout-out in acknowledgments)
 
 ** Gutenberg Galaxy (McLuhan)
-"the medium is the message"
-"global village": we are returning to tribalism
-new technology is sparking movement from visual culture back to oral culture
-technological determinist
+- "the medium is the message"
+- "global village": we are returning to tribalism
+- new technology is sparking movement from visual culture back to oral culture
+- technological determinist
 ** Writing Space (Bolter, 2001)
-Thesis: How does hypertext/new media remediate print?
-we are in "late age of print" (similar to late capitalism in that it has changed but is still going strong)
-Media has two possible goals: representation ("window to the world") or hypermediacy (a concern with the affordances of the medium)
-remediation - tense relationship between an incumbent and an ascending medium (i.e., manuscript/print, print/screen)
-hypertext = flexible, interactive, iterative
-Hypertext has a topology. Computers are concerned with structures. Most visual representations are "flattening."
-Everything is a technology. Writing is a technology.
+- Thesis: How does hypertext/new media remediate print?
+- we are in "late age of print" (similar to late capitalism in that it has changed but is still going strong)
+- Media has two possible goals: representation ("window to the world") or hypermediacy (a concern with the affordances of the medium)
+- remediation - tense relationship between an incumbent and an ascending medium (i.e., manuscript/print, print/screen)
+- hypertext = flexible, interactive, iterative
+- Hypertext has a topology. Computers are concerned with structures. Most visual representations are "flattening."
+- Everything is a technology. Writing is a technology.
 ** Forms and Meanings (Roger Chartier, 1995)
-Thesis: How does the form (mode of transfer from author to reader) constrain the production of meaning?
-"Historical comprehension" requires that we look closely at the milieu, not just the work
-we should deconstruct not only the text, but the various receptions of that text in different milieu
-Vico's three ages (gods, heroes, and men) = move from reading from priests to aristocrats to the vulgar
-the move to electric is bigger than the change to print culture because it changes the form itself. Also changes methods of organization of the written word
-codex allows for new affordances (paging through, finding citations; perfect for Christianity)
-xylography - the use of wooden templates to print characters, a practice used in China in the 11th century, long before Gutenberg
+- Thesis: How does the form (mode of transfer from author to reader) constrain the production of meaning?
+- "Historical comprehension" requires that we look closely at the milieu, not just the work
+- we should deconstruct not only the text, but the various receptions of that text in different milieu
+- Vico's three ages (gods, heroes, and men) = move from reading from priests to aristocrats to the vulgar
+- the move to electric is bigger than the change to print culture because it changes the form itself. Also changes methods of organization of the written word
+- codex allows for new affordances (paging through, finding citations; perfect for Christianity)
+- xylography - the use of wooden templates to print characters, a practice used in China in the 11th century, long before Gutenberg
 
 Vico's classification: Three Ages
-Age of Gods - metaphor (objects to symbols), theocracy - scripture
-Age of Heroes - metanym (qualities to symbols), aristocracy - contracts
-Age of Men - synecdoche (abstractions or sounds to symbols), the Republic or the vulgar - facts
+
+1. Age of Gods - metaphor (objects to symbols), theocracy - scripture  
+
+2. Age of Heroes - metanym (qualities to symbols), aristocracy - contracts  
+
+3. Age of Men - synecdoche (abstractions or sounds to symbols), the Republic or the vulgar - facts  
 
 ** Paratexts (Genette, 1987)
 paratexts are thresholds that make a book a book and attempt to affect the reception of a text
-five kinds of paratext: spatial, temporal, substantive, pragmatic, and functional
-Peritexts are the domain of the publisher. Epitexts are paratexts external to the work, like reviews
-some paratexts, like the dedication and inscription, have elocutionary force...that is, they are speech acts, not just speech
-A work of interpretation, not of book history
+
+five kinds of paratext:
+- spatial
+- temporal
+- substantive
+- pragmatic
+- functional
+
+- Peritexts are the domain of the publisher. Epitexts are paratexts external to the work, like reviews
+- some paratexts, like the dedication and inscription, have elocutionary force...that is, they are speech acts, not just speech
+- A work of interpretation, not of book history
 
 ** Bibliography and the Sociology of Texts (McKenzie)
-books are now only one form of text among many
-the new flexibility and lack of authority in the modern marketplace almost suggests a return to orality
-
-once greater attention was paid to the details of book history, bibliographers found that there was greater complexity in the methods of production than surmised. Paradoxically, this led to more freedom from strictly inductive methods, and bibliographers circled out into historical context. The trade itself, not just the products of the trade, had to be studied.
-
-The book is never just a remarkable object. Like every technology is a product of human agency in a wide variety of contexts
-
-Wants to look at the commonality in the production of all kinds of media, but acknowledges that no model can embrace all these relationships
-
+- books are now only one form of text among many
+- the new flexibility and lack of authority in the modern marketplace almost suggests a return to orality
+- once greater attention was paid to the details of book history, bibliographers found that there was greater complexity in the methods of production than surmised. Paradoxically, this led to more freedom from strictly inductive methods, and bibliographers circled out into historical context. The trade itself, not just the products of the trade, had to be studied.
+- The book is never just a remarkable object. Like every technology is a product of human agency in a wide variety of contexts
+- Wants to look at the commonality in the production of all kinds of media, but acknowledges that no model can embrace all these relationships
 ** Reading Writing Interfaces (Lori Emerson)
 Dislikes magic, or the hiding away of what's actually going on behind slick interfaces
 
 "invisible" and "natural" are (overly positive) words used unthinkingly to describe new interfaces
 
-ubicomp (ubiquitous computing) is that paradigm she reacts against
+ubicomp (ubiquitous computing) is the all-encompassing paradigm she's reacting against
 
 ** Book Was There (Andrew Piper)
 thesis: Reflection on reading in an age of screen ascendency. Written loosely, like a classical essay.
-tries to navigate between book history and media studies
-concerned with the physical intimacy of reading (reading with children)
-paradoxically, reading is both an escape and a discipline (it disciplines the mind, molds the reader, a bit McLuhany)
-complains about the utopian and the jeremiad forms in writing about reading, relates them to complaining about romances (Don Quixote)
-considers himself a middling reader and an avid computer user
-"I can imagine a world without books. I cannot imagine one without reading."
-Chapter 1 talks about St. Augustine: "take it and read", anecdote shows codex as a technology (finger marks passage)
+
+- tries to navigate between book history and media studies
+- concerned with the physical intimacy of reading (reading with children)
+- paradoxically, reading is both an escape and a discipline (it disciplines the mind, molds the reader, a bit McLuhany)
+- complains about the utopian and the jeremiad forms in writing about reading, relates them to complaining about romances (Don Quixote)
+- considers himself a middling reader and an avid computer user
+- "I can imagine a world without books. I cannot imagine one without reading."
+- Chapter 1 talks about St. Augustine: "take it and read", anecdote shows codex as a technology (finger marks passage)
+
 book is graspable in physical and material sense ("books will always be there")
+
 the book is /at hand/
   - book of hours (graspable)
   - manual
   - manicule
   - Braille
+
 books are about encapsulation, they hold things
+
 Text Rain
-sleepwalking describes use of the web
-Facebook = "new narsessystem"
-age of distraction, just too much stuff now!
-Pliny: "read much, not many" (anxieties about shallow reading go way back)
-enhanced ebooks not the way (we need to think about the architecture of the text, not the technology)
-fenestration: the act of looking /through/ the page
-pages are signs of passion (from /Orchid Thief/)
-reading assumes topology: print is domestic, digital =reading we're "roaming across a plain"
+
+- sleepwalking describes use of the web
+- Facebook = "new narsessystem"
+- age of distraction, just too much stuff now!
+- Pliny: "read much, not many" (anxieties about shallow reading go way back)
+- enhanced ebooks not the way (we need to think about the architecture of the text, not the technology)
+- fenestration: the act of looking /through/ the page
+- pages are signs of passion (from /Orchid Thief/)
+- reading assumes topology: print is domestic, digital =reading we're "roaming across a plain"
 
 reading assumes topology: print is domestic, digital =reading we're "roaming across a plain"
 - the stream is chronological, not topological
@@ -204,13 +216,13 @@ reading assumes topology: print is domestic, digital =reading we're "roaming acr
 Goethe: "It would be a lowly art that allowed itself to be understood all at once"
 
 ** Wealth of Networks (Benkler, 2006)
-thesis: networks are democratizing
-we live in "industrial information economy"
-holds up "commons-based peer production"
-lowered transaction costs lead to better creative outputs
-book itself was a demonstration of online collaboration, released on Creative Commons license
-four types of commons: open or closed  (highway, old pasture is open) and regulated or unregulated commons (air is regulated)
-weakness of the book (my opinion) is optimism about platforms
+- thesis: networks are democratizing
+- we live in "industrial information economy"
+- holds up "commons-based peer production"
+- lowered transaction costs lead to better creative outputs
+- book itself was a demonstration of online collaboration, released on Creative Commons license
+- four types of commons: open or closed  (highway, old pasture is open) and regulated or unregulated commons (air is regulated)
+- weakness of the book (my opinion) is optimism about platforms
 ** The Case for Books (Darnton)
 every age is an age of information, and information is always unstable
 - news has always been unstable (tells story of trying to find a printable news story and being told that a rape/homicide was unprinable because the victims were black)
@@ -222,8 +234,6 @@ to modern students, information appears to be all online, not in the library
 
 can google put all other sources of information out of business. Darnton says no:
 - how many books can they really digitize? (not enough)
-- 
-
 
 invokes the enlightenment to describe both the potential of new entities such as Wikipedia, the internet archive but also to invoke how far we've come from the original purpose of copyright
 
@@ -232,9 +242,8 @@ fears that what happened with academic journals could happen with google books
 google books is a locus for a utopian vision of a world library and also of a dystopian future
 
 his trajectory was academia > journalism > Harvard library > google books
+
 impressed with the possibilities of Google Books but concerned about the monopoly
-
-
 
 * book notes 
 ** The Nature of the Book (Adrian Johs)
