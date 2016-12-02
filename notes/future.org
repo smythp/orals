@@ -4,7 +4,7 @@
 - tracing bibliography from the copy text to the modern digital social edition
 - Cover the Greg, Bowers, Tanselte eclectic approach and the reactions by McGann and McKenzie
 - Touch on how bibliography is extended into digital spaces (Siemens with the digital social edition, Darnton on the Google Book (non)approach to bibliography.
-- [[bibliography overview][bibliography notes]]
+- [[https://github.com/smythp/orals/blob/master/notes/future.org#bibliography-overview][bibliography notes]]
 ** Determinism and historicism
 - Engage the question of whether technology (here primarily represented by print culture) determines cultural change (Eisenstein)  or human cognition (McLuhan)
 - McLuhan and typographic man. Eisenstein and the printing press. Walter Ong on literacy effacing orality.
