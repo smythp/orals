@@ -29,21 +29,21 @@ Kirschenbaum's /Mechanisms/
 
 ** Free Books, Free Society
 - thinking critically about the challenges that we face in opening up scholarly publishing
-- traps (Stallman's identification of proprietary softare as a trap, Lori Emerson's understanding of ubicomp and the invisible GUI as traps, Darnton and Fitzpatrick's articulations of the current trap in scholarly publishing, Darnton's analysis of Google Books as a potential trap)
+- traps (Stallman's identification of proprietary software as a trap, Lori Emerson's understanding of ubicomp and the invisible GUI as traps, Darnton and Fitzpatrick's articulations of the current trap in scholarly publishing, Darnton's analysis of Google Books as a potential trap)
 - ways forward (Benkler's networks of peers such as wikis and FOSS, the GNU viral model esp. as articulated by Dexter, Fitzpatrick's post-publication peer review, keeping print around as articulated by Darnton, Piper, Matt's Manifold, others, recursive and affective publics by Chris Kelty and Henry Jenkins)
 
 
 
-* descriptive ntoes
+* descriptive notes
 ** bibliography
 
 W. W. Greg
 
-advocated eclectic editing. divided text into substantive component and accidentals. disputed the prevailing idea of the copy-text, or a chosen text that serves as the basis of an edition, thinking the editor should work toward a more idealized version of the text based on substantive components. the copy-text would really only be used as a tie-breaker if the editor's vision of the text does not apply to a particular discrepency (called "indifference". The eclectic appraoch is usually associated with authorial intentionality because in look at the substantive component you're decidiing what the author indended to be there as opposed to accidentals, which the author didn't care about.
+advocated eclectic editing. divided text into substantive component and accidentals. disputed the prevailing idea of the copy-text, or a chosen text that serves as the basis of an edition, thinking the editor should work toward a more idealized version of the text based on substantive components. the copy-text would really only be used as a tie-breaker if the editor's vision of the text does not apply to a particular discrepancy (called "indifference". The eclectic approach is usually associated with authorial intentionality because in look at the substantive component you're deciding what the author indended to be there as opposed to accidentals, which the author didn't care about.
 
 Bowers
 
-Applied Greg's appraoch (electic) in practice (Greg didn't live long enough). Believed the bibliographer should study the book as an object and that the signs in the book should be considered merely as icons independent of semantics. (descriptive bibliography, didn't consider historical bibliography to be part of bibliography). G. Thomas Tanselte continued these eclectic practices in the 70s.
+Applied Greg's approach (eclectic) in practice (Greg didn't live long enough). Believed the bibliographer should study the book as an object and that the signs in the book should be considered merely as icons independent of semantics. (descriptive bibliography, didn't consider historical bibliography to be part of bibliography). G. Thomas Tanselte continued these eclectic practices in the 70s.
 
 Jerome McGann
 
@@ -59,7 +59,7 @@ eclectic - attempts to create a text as close as possible to the intention of th
 
 social edition - a reaction to the fetishization of the author. developed independently by McGann and McKenzie (according to Greetham). Acknowledges the wide variety of sources of influence on a text, deemphasizes authorial intentionality. 
 
-dynamic text - nonlinear treatment of the text advocated by ray siemens, uses tools such as concordance and other text analysis techniques. combines text with tools.
+dynamic text - nonlinear treatment of the text advocated by ray Siemens, uses tools such as concordance and other text analysis techniques. combines text with tools.
 
 digital social edition - not really using the term social edition the same way, social more in a web 2.0 way
 
@@ -69,7 +69,7 @@ Google Books approach - an approach to bibliography in which you remain complete
 
 Three approaches to the historical and formal situation of books, examining their production, dissemination, and reception, are "historical comprehension" (Chartier, /Forms and Meanings/) paratextual theory (Genette, /Paratexts/), and the social edition (McKenzie, /Bibliography and the Sociology of Texts/). McKenzie, Chartier, and Genette make for an interesting study: McKenzie the bibliographer, Chartier the historian an, and Genette the hermeneuticist. They are all concerned with forms and meanings (as Chartier's book is titled). The subtitle to /Paratexts/ in the English translation is, aptly, /Thresholds of Interpretation/, and thus is also concerned with the form ("thresholds") and meaning ("interpretation") of a received work.
 
-Chartier's primary concern in /Forms and Meanings/ is the milieu of reception, which can differ widely within a historical situation. The play /George Dandin/ (1668) by Molière, for example, was presented first at Versilles to celebrate the victories of Louis XIV  and then in the urban theaters of Paris, entirely different milieu with different modes of reception. Chartier contends that "no work has any meaning outside of the varied forms that offer it for decipherment." For Chartier, form extends beyond materiality or the physical embodiment of a work and necessarily includes historical and cultural frameworks of reception. For him, readings that conflate distinct groups ("the popular reading") or readings that ignore historical or material situation (New Criticism, arguably readings dependent on potentially anachronistic readings such as Marxism) are suspect. For Chartier, the new difference between print and screen is actually more significant than the revolution that took place after the rise of the printing press. For him, this new seed change is different because the shift to print did not change the fundamental form and structure of the book, though it did affect the contexts in which books were produced, disseminated, and received. As Bowlter also later observes, the shift to digital modes of writing changes how we structure and organize writing, not only the environment(s) in which it is consumed.
+Chartier's primary concern in /Forms and Meanings/ is the milieu of reception, which can differ widely within a historical situation. The play /George Dandin/ (1668) by Molière, for example, was presented first at Versilles to celebrate the victories of Louis XIV  and then in the urban theaters of Paris, entirely different milieu with different modes of reception. Chartier contends that "no work has any meaning outside of the varied forms that offer it for decipherment." For Chartier, form extends beyond materiality or the physical embodiment of a work and necessarily includes historical and cultural frameworks of reception. For him, readings that conflate distinct groups ("the popular reading") or readings that ignore historical or material situation (New Criticism, arguably readings dependent on potentially anachronistic readings such as Marxism) are suspect. For Chartier, the new difference between print and screen is actually more significant than the revolution that took place after the rise of the printing press. For him, this new seed change is different because the shift to print did not change the fundamental form and structure of the book, though it did affect the contexts in which books were produced, disseminated, and received. As Bolter also later observes, the shift to digital modes of writing changes how we structure and organize writing, not only the environment(s) in which it is consumed.
 
 In /Paratexts/ (the literal translation of the title is  /Thresholds/), Genette proposes another methodology for analyzing the production, dissemination, and reception of texts. The approach outlined in /Paratexts/ is one that relies on formal properties that instantiate a book as a literary and cultural object. Unlike Chartier, who focuses on communities of readerly consensus that alter the reception of a work in shifting historical and cultural contexts, Genette's interest lies in a book's garments (the cover, the inscription, the insert, the typesetting) and adornments (the title, the author's name, the epigraph or epigraphs). For Genette, context is local—the text is framed for reception by these paratexts, which provide an entrée to the text itself and which independently suggest modes of reading and interpretation. In fact, /Paratexts/ is distinguished from a work of book history (which it firmly is not, despite its subject matter), by its attendance on hermaneutics. /Paratexts/ is a critical work, and one focused on a relatively narrow subset of contemporary Western, mostly Francophone and Anglophone, literature. While this could be considered a limitation of the work, in delving into critical engagement with paratext in every chapter Genette provides a model for reading paratextually that is more concretely realized than, say, McGann or McKenzie's purely theoretical advocacy for the social edition.
 
@@ -81,28 +81,28 @@ Add Greetham
 
 * book outlines (longer notes below)
 ** Planned Obselescence (Fitzpatrick)
-wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community appraoch (academics need to be helpful to each other)
+wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community approach (academics need to be helpful to each other)
 we need to let go of the idea that each voice is a voice alone
-wants to privelage the process of discussion and revision, not publication\
+wants to privilege the process of discussion and revision, not publication\
 the fact that we still don't acknowledge collaboration is shown in the "literally unthinkable" idea of a multi-author dissertation
 remix-oriented scholarship might look more like editorial or curatorial work
 
 1. peer review
 "we police ourselves into irrelevance" - Cathy Davidson
 
-wikipedia is an example of ongoing peer review, and is generally distrusted in the academy
+Wikipedia is an example of ongoing peer review, and is generally distrusted in the academy
 - if we cling to an outdated system of ascribing authority while the nature of authority changes around us, we will be left behind
-what she is NOT arguing is that peer review online has to be equivelent to peer review in print
+what she is NOT arguing is that peer review online has to be equivalent to peer review in print
 - this might help in the short term but will hobble the academy in the long term
 - /The Academic Self/, suggests that academics don't want to look too closely at their own methodology, won't want to know about the actual efficacy of peer review
 
-not pointed out by Fitzpatrick, but the terrifying thing about wikipeida for academics is probably the fact that huge numbers of people will do acadmeic work for free
-- if we were to make academic work truly public, would academia look like wikipeida?
+not pointed out by Fitzpatrick, but the terrifying thing about Wikipedia for academics is probably the fact that huge numbers of people will do academic work for free
+- if we were to make academic work truly public, would academia look like Wikipedia?
 
 there is almost no study of peer review, and almost all of the study that exists is the social sciences, basically nothing in the humanities
 
-peer review is a "disciplinary tehnology" in the Foucaultian sense
-- peer review is self-perpetuating, the disciplined become the discipliners
+peer review is a "disciplinary technology" in the Foucaultian sense
+- peer review is self-perpetuating, the disciplined become the disciplines
 
 in science, there is such a thing as a repository of working papers
 - social paper is a good first step toward this in the humanities
@@ -111,11 +111,11 @@ public peer review deters authors from submitting substandard manuscripts, savin
 
 
 
-thesis: we need to face social and instittutional problems in academia before we can fix scholarly publishing
+thesis: we need to face social and institutional problems in academia before we can fix scholarly publishing
 talks about "the reputation economy" (waffi in /Down and Out in the Magic Kingdom/
 credientialism is interfering with the move to digital
-slashdot
-criticism: slashdot, wikipedia, etc are very male...would that happen to academic discourse?
+Slashdot
+criticism: Slashdot, Wikipedia, etc are very male...would that happen to academic discourse?
 anxiety in academic writing about balance between individual ownership and community engagement
 advocates moving to post-publication peer review from pre-publication peer review
 she started Media Commons, which seems a lot like CUNY Academic Commons (Matt got a shout-out in acknowledgments)
@@ -125,7 +125,7 @@ she started Media Commons, which seems a lot like CUNY Academic Commons (Matt go
 "global village": we are returning to tribalism
 new technology is sparking movement from visual culture back to oral culture
 technological determinist
-** Writing Space (Bowlter, 2001)
+** Writing Space (Bolter, 2001)
 Thesis: How does hypertext/new media remediate print?
 we are in "late age of print" (similar to late capitalism in that it has changed but is still going strong)
 Media has two possible goals: representation ("window to the world") or hypermediacy (a concern with the affordances of the medium)
@@ -185,10 +185,10 @@ the book is /at hand/
   - book of hours (graspable)
   - manual
   - manicule
-  - braile
+  - Braille
 books are about encapsulation, they hold things
 Text Rain
-sleepwalking describes use of teh web
+sleepwalking describes use of the web
 Facebook = "new narsessystem"
 age of distraction, just too much stuff now!
 Pliny: "read much, not many" (anxieties about shallow reading go way back)
@@ -213,7 +213,7 @@ four types of commons: open or closed  (highway, old pasture is open) and regula
 weakness of the book (my opinion) is optimism about platforms
 ** The Case for Books (Darnton)
 every age is an age of information, and information is always unstable
-- news has always been unstable (tells story of trying to find a printable news story and being told that a rape/homocide was unprinable because the victims were black)
+- news has always been unstable (tells story of trying to find a printable news story and being told that a rape/homicide was unprinable because the victims were black)
 - information has never been stable. texts are always mutable
 
 voltaire toyed with his texts so much that his printers and publishers got pissed off. (collaborated with pirates)
@@ -225,13 +225,13 @@ can google put all other sources of information out of business. Darnton says no
 - 
 
 
-invokes the enlightenment to describe both the potential of new entities such as wikipedia, the internet archive but also to invoke how far we've come from the original purpose of copyright
+invokes the enlightenment to describe both the potential of new entities such as Wikipedia, the internet archive but also to invoke how far we've come from the original purpose of copyright
 
 fears that what happened with academic journals could happen with google books
 
 google books is a locus for a utopian vision of a world library and also of a dystopian future
 
-his trajectory was academia > journalism > harvard library > google books
+his trajectory was academia > journalism > Harvard library > google books
 impressed with the possibilities of Google Books but concerned about the monopoly
 
 
@@ -240,25 +240,25 @@ impressed with the possibilities of Google Books but concerned about the monopol
 ** The Nature of the Book (Adrian Johs)
 book is an argument against the technological determinism of Eisenstien and McLuhan
 
-the sotry eof the stability of print began with printers in the 16th century who even then benefitted from the perception that print was stable
+the story of the stability of print began with printers in the 16the century who even then benefit ted from the perception that print was stable
 
 our perception of the stability of print is a result of work over generations, work that has largely been forgotten (as opposed to something inherent to the technology of print)
 
 ** Digital Memory and the Archive (Wolfgang Ernst)
-thesis: the archive is not remote, but ubiquitous. media archology is one way to understand this new archive, despite the fact that the new archive is a contested space that resists intrusion and interpretation
+thesis: the archive is not remote, but ubiquitous. media archaeology is one way to understand this new archive, despite the fact that the new archive is a contested space that resists intrusion and interpretation
 
-there is a historial break in media when light was technologized (crystal palace, photography)
+there is a historical break in media when light was technologized (crystal palace, photography)
 
 photography is "writing with light", reminds me of the observations in Track Changes about writing with light on screens
 
-heidegger calls new forms of communication and indexing "the essence of historicism itself"
+Heidegger calls new forms of communication and indexing "the essence of historicism itself"
 
-the archive as the store of history is dependant on the medium of transmission
+the archive as the store of history is depend ant on the medium of transmission
 - some media are excluded from history, such as the diorama, because of their incompatibility with the archive
 
 engraving is an act of interpretation. photography is inherently indexical
 
-really interesting!: antequarianism acknowledges the past as hardware. historical discourse treats the past as software.
+really interesting!: antiquarianism acknowledges the past as hardware. historical discourse treats the past as software.
 - where does that leave book history? bibliography?
 
 ** Orality and Literacy (Walter Ong)
@@ -266,33 +266,33 @@ book is interested in primary orality, which is orality in cultures untouched by
 
 secondary orality is orality that exists or resurfaces in cultures touched by literacy
 
-monstrous concept for Ong: "oral literature" this term blatently places orality within the bounds of literacy, understanding it only through literacy
+monstrous concept for Ong: "oral literature" this term blatantly places orality within the bounds of literacy, understanding it only through literacy
 
 writing is a preemptively imperialist activity that tends to adhere things to itself, so the term "oral literature" is particularly pernicious. It's hard to recover orality once it has been touched by literacy, you can't unlearn to read. Calling traditional storytelling "oral literature" is like calling the horse a "wheelless automobile". The term "preliterate" has a similar problem, it's moving backward instead of forward.
 
-for most literates, to think of words as disassocated from writing is too arduous a task to undertake
+for most literates, to think of words as disassociated from writing is too arduous a task to undertake
 
 "for 2000 years, literates have devoted themselves to the study of homer, with various mixtures of insight, misinformation, and prejudice"
 
-Milman Perry: observed that Homeric poetry is a technology for memory. virutally every feature of homeric poetry is forced on it by oral methods of composition. epithets for everything were required in order to maintain the hexamater. each telling was stiched together, Homeric epics are a modular design
-- by the standards of the romatic era, poets had to create ex nihilo (out of nothing), so they figured Homeric poetry couldn't have prefab components
-- Homer rhapsodizes, literrallly stiches songs together, reuses phrases again and again
+Milman Perry: observed that Homeric poetry is a technology for memory. virtually every feature of Homeric poetry is forced on it by oral methods of composition. epithets for everything were required in order to maintain the hexameter. each telling was stitched together, Homeric epics are a modular design
+- by the standards of the romantic era, poets had to create ex nihilo (out of nothing), so they figured Homeric poetry couldn't have prefab components
+- Homer rhapsodizes, literally stiches songs together, reuses phrases again and again
 - the larger works are also composed out of strict themes
 - the Homeric poems actually use their own special form of Greek with its own formulas, similar to the English special formulas for fairy tales
 
 much that came after Homer in Greek culture was antagonistic to this technology ("a drought not of memory but of forgetting")
 
-orality has been considered as a varient of literacy or as beneath scholarly attention
+orality has been considered as a variant of literacy or as beneath scholarly attention
 
 secondary orality - a return to orality with television, radio, etc. (now also memes, audiobooks)
 
-lingusists hadn't really contrasted primary orality with literacy
+linguists hadn't really contrasted primary orality with literacy
 
-of the tens of thousands of languages in human hisotry only a little over 100 have what could be called a literature. most haven't been written at all
+of the tens of thousands of languages in human history only a little over 100 have what could be called a literature. most haven't been written at all
 
 
-the often-cited discinction between magic and science can actually be better explored as the difference between orality and literacy
-- differences between western culture and others can often be attributed to how much the culture has internalized literacy and its accompnaying habits of mind (abstraction, distance)
+the often-cited distinction between magic and science can actually be better explored as the difference between orality and literacy
+- differences between western culture and others can often be attributed to how much the culture has internalized literacy and its accompanying habits of mind (abstraction, distance)
 - Julian Jaynes has a theory of the bicameral mind...before writing, the mind was split, the right half talked to the gods and the left half interpreted that into language. Jaynes marks Odysseus as a point marking the breakdown of this bicameral system between 2000 and 10000 BC.
 
 
@@ -304,12 +304,12 @@ oral culture is agonistic, defined by binaries such as good and evil
 
 
 
-"the effect is not hte immediate apprehension of knowledge, but ... estrangement and defamiliarization"
+"the effect is not the immediate apprehension of knowledge, but ... estrangement and defamiliarization"
 
 points to Potter, Gottschald, and Moretti as advocates of a scientific approach to text analysis
-- ramsey refutes this by pointing out that everything in this debate is treated as a rhetorical object except the data, which is largely unexamined (data fetishism)
+- Ramsey refutes this by pointing out that everything in this debate is treated as a rhetorical object except the data, which is largely unexamined (data fetishism)
 
-hermaneutics isn't concered with the kind of methology you see in science, but it is concerened with truth reached through a dialectic process
+hermaneutics isn't concerned with the kind of methodology you see in science, but it is concerned with truth reached through a dialectic process
 - literary criticism isn't about facts. it's about a web of discourse
 
 so how do we deal with the break between the hermaneutic mode and the model of coputation used in text analysis? 
@@ -317,11 +317,11 @@ so how do we deal with the break between the hermaneutic mode and the model of c
 it's tempting to use distant reading methodologies like TF/IDF to confirm or deny readings arrived at through traditional means. but then you have to question TF/IDF...why would it be considered more valid a reading than the traditional one?
 
 "a scientific literary criticism would cease to be criticism"
-- the goal is fundamentally different. science looks for one answer. the purpose of criticism is actually the oppisite, to generate multiple meanings in a dialogue with one another. the more fecund an approach in generate debate, the more successful
+- the goal is fundamentally different. science looks for one answer. the purpose of criticism is actually the opposite, to generate multiple meanings in a dialogue with one another. the more fecund an approach in generate debate, the more successful
 
-ramsey's way forward here is to acknowledge the way "normal" criticism deforms the text. all readings are based on a heruistic approach to the text by definition. text analysis provides another way of deforming or carving a path through a text that isn't necessarily less valid
+Ramsey's way forward here is to acknowledge the way "normal" criticism deforms the text. all readings are based on a heuristic approach to the text by definition. text analysis provides another way of deforming or carving a path through a text that isn't necessarily less valid
 - if you say "turn to page 112" or if you say "consider the novel in relation to Jacobin theater," you're deforming the text
-- witgenstein: "we see an aspect that further enables discussion and debate"
+- Wittgenstein: "we see an aspect that further enables discussion and debate"
 - the computer can discover or uncover features in a consistent, rigidly holistic manner
 
 it's not just about reproducability (or shouldn't be). text analysis should also be about hackability
@@ -335,21 +335,21 @@ introduces padaphysics as a third way between hermaneutic discourse and scientif
 ** Reading Machines (Ramsey)
 civilization advances due to the number of important advances that we can do without thinking about them -Alfred North Whitehead
 in interpreting distant reading data, we need we need hermaneutics
-- "maybe "perhaps eye features prominently in shakesphere because love enters through the eye"
+- "maybe "perhaps eye features prominently in Shakespeare because love enters through the eye"
 
 the lists of words are at once obvious and require imagination to explain the parts of the lists that don't quite make sense to us
 this is "algorithmic criticism"
-when confronted with surpirsing results (about the relative richness in language of various novels), his students articulate their surpise and established scholars immediately criticize the methology
-- the students aren't rising up to be critical and the scholars are too quick to dismiss results that don't fit with their Weltanschaung, we shoudln't be content with the algorithm as it is and we shouldn't immediately dismiss it
+when confronted with surprising results (about the relative richness in language of various novels), his students articulate their surprise and established scholars immediately criticize the methodology
+- the students aren't rising up to be critical and the scholars are too quick to dismiss results that don't fit with their Weltanschaung, we shouldn't be content with the algorithm as it is and we shouldn't immediately dismiss it
 
-points to TAPIR, a service for text analysis that is uncritical of its appraoches, not very humanistic
+points to TAPIR, a service for text analysis that is uncritical of its approaches, not very humanistic
 
 we view some of the more outlandish distortions of text analysis with both suspicion and fascination"it is manifestly impossible to read everything, and it has always been so"
 
-"felicitious reading" (adapted from felicitious speech acts from J. L. Austin) is the successful orientation of a book within a larger context of reading
+"felicitous reading" (adapted from felicitous speech acts from J. L. Austin) is the successful orientation of a book within a larger context of reading
 
 text analysis is an advanced form of not reading
-- not reading as outlined in "HOw to talk about books you haven't read" is all about plaing books, locating them within the landscape of literature
+- not reading as outlined in "How to talk about books you haven't read" is all about placing books, locating them within the landscape of literature
 - text analysis also allows us to do this
 - close reading has always been an exceptional  (i.e. rare) activity
 text analysis is a way of shifting the massive weight of knowledge that still lies beyond the trod paths of the indexthe bibliography, and the annotation
@@ -762,7 +762,7 @@ books both powerful and dangerous:
 
 
 "Although it is very difficult to avoid all prediction (in practice, to avoid writing in the future tense), it should nevertheless be possible to resist the impulse to unify—to avoid merging individual predictions into a synthesis that is supposed to represent the one, true future. We should instead treat the predictions of both the enthusiasts and the critics as part of the ambiguous present that constitutes the late age of print. Their predictions reflect the struggles among various cultural factions that are trying to work out the relationship of digital technology to its predecessors. "
-(from Bowlter)
+(from Bolter)
 * connections to utopianism
 estrangement (distant reading, suven's distance)
 
