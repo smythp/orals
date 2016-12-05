@@ -1,10 +1,12 @@
+
 * discussion points overview
 
 ** Bibliography
 - tracing bibliography from the copy text to the modern digital social edition
 - Cover the Greg, Bowers, Tanselte eclectic approach and the reactions by McGann and McKenzie
 - Touch on how bibliography is extended into digital spaces (Siemens with the digital social edition, Darnton on the Google Book (non)approach to bibliography.
-- [[https://github.com/smythp/orals/blob/master/notes/future.org#bibliography-overview][bibliography notes]]
+- historical outline of bibliography below
+
 ** Determinism and historicism
 - Engage the question of whether technology (here primarily represented by print culture) determines cultural change (Eisenstein)  or human cognition (McLuhan)
 - McLuhan and typographic man. Eisenstein and the printing press. Walter Ong on literacy effacing orality.
@@ -37,7 +39,7 @@ traps
 - Stallman's identification of proprietary software as a trap
 - Lori Emerson's understanding of ubicomp and the invisible GUI as totalizing and inescapable
 - Darnton and Fitzpatrick's articulations of the current trap in scholarly publishing
-- Darnton's analysis of Google Books as a potential pitfall
+- Darnton and Nowviskie's analysis of Google Books as a potential pitfall
 
 ways forward 
 - Benkler's networks of peers such as wikis and FOSS
@@ -48,8 +50,24 @@ ways forward
 - keeping print around as articulated by Darnton, Piper, Matt's Manifold
 - recursive and affective publics by Chris Kelty and Henry Jenkins)
 
-
 * descriptive notes
+** Graphs, Maps, Trees (Moretti)
+switch to the annals form (thinking about Com. Textual Media and Dwarven Epitaphs)
+
+the fact that novels come out frequently make them that rarest of thigs: a regular novelty
+- inspired standard remediation jermiads (novels make readers lazy, dissolute, insane)
+
+the graph gives a bird's eye vie of the development of the novel. it is its own rhetorical argument, almost self-evident.
+- (i think) graphs are so rhetorically effective that they often go unexamined. (Ramsey says that data is the only piece of rhetoric that is not treated as rhetoric)
+
+moretti says data is idelaly independent of interpretation, but that meanign still needs to be derived from the data. what are the inflection points? 
+
+genres are Janus-like creates with one face turned to history and the other to form
+
+interesting! - compares the emergence of genres to Kuhns' paradigms
+- forms are stable for a time (normal literature, like Kuhns normal science) and then undergo massive change over a short time
+
+
 ** bibliography overview
 
 W. W. Greg
@@ -186,6 +204,22 @@ she started Media Commons, which seems a lot like CUNY Academic Commons (Matt go
 - "global village": we are returning to tribalism
 - new technology is sparking movement from visual culture back to oral culture
 - technological determinist
+
+quoted Popper's /The Open Society and Its Enemies/ in predicting that print culture enabled social democracy while digital culture will stifle it (sounds about right to me)
+
+in the "electric age," we have no trouble identifying with oral culture because we're living it (Ong must have hated this)
+
+the phonetic alphabet is the basis for the open society. the electric age is the basis of a new closed global society, or global viallage
+
+Take on King Lear is interesting:
+- king lear is a Machiavelli, he is attempting to create a modern state where he is a specialist
+- play has to do with the loss of senses, esp. sight, which is important to McLuhan's theory of typographic man (a world of sight not of orality)
+
+- Shakespeare has his back foot in the mideval world of role and his front foot in the modern world of jobs
+
+his appraoch is unconstrained and toalizing. Chartier would object to sweeping claims about whole periods (mideval, renaissance, age of electricity.
+
+
 ** Writing Space (Bolter, 2001)
 - Thesis: How does hypertext/new media remediate print?
 - we are in "late age of print" (similar to late capitalism in that it has changed but is still going strong)
@@ -306,9 +340,32 @@ his trajectory was academia > journalism > Harvard library > google books
 
 impressed with the possibilities of Google Books but concerned about the monopoly
 
+** resistance in the materials (noviskie)
+
+morris claimed that resistance in the materials was important in the creative process. If there was too little resistance between the thought and creation, as with the typewritier, creativy was compromised.
+
+three factors:
+
+conversion of print to digital forms
+- we have been fractured by google books
+
+what are we to do with all the 3d stuff? it doesn't really apply to literary analysis
+
+embodied inquiry
+- we (DHers) have generated a new cadence of scholarly communication seperate form the prevailing
+- danger of upcoming DHers becoming jacks of all trades, no deep commitment
+
+** The Printing Press as an Agent of Social Change (Eisenstein)
+specifically says in the preface that the title is to be taken as a metanym, she disavows technological determinism
+
+takes the view that the printing press is a catalyst of social change. Rather than a single reason for the explosion of early modern print culture, the printing press respresented a removal of a barrier, allowing other conditions for the development of print culture to interact
+
+she's actually afraid of being lumped in with McLuhan (she often is lumped in...)
+
+
 * book notes 
-** The Nature of the Book (Adrian Johs)
-book is an argument against the technological determinism of Eisenstien and McLuhan
+** The Nature of the Book (Adrian Johns)
+book is an argument against the technological determinism of Eisenstien and McLuhan (more justified against McLuhan, I would say)
 
 the story of the stability of print began with printers in the 16the century who even then benefit ted from the perception that print was stable
 
@@ -373,38 +430,10 @@ formulae  are used extensively in oral cultures (aphorisms, sayings)
 oral culture is agonistic, defined by binaries such as good and evil
 
 
-
-"the effect is not the immediate apprehension of knowledge, but ... estrangement and defamiliarization"
-
-points to Potter, Gottschald, and Moretti as advocates of a scientific approach to text analysis
-- Ramsey refutes this by pointing out that everything in this debate is treated as a rhetorical object except the data, which is largely unexamined (data fetishism)
-
-hermaneutics isn't concerned with the kind of methodology you see in science, but it is concerned with truth reached through a dialectic process
-- literary criticism isn't about facts. it's about a web of discourse
-
-so how do we deal with the break between the hermaneutic mode and the model of coputation used in text analysis? 
-
-it's tempting to use distant reading methodologies like TF/IDF to confirm or deny readings arrived at through traditional means. but then you have to question TF/IDF...why would it be considered more valid a reading than the traditional one?
-
-"a scientific literary criticism would cease to be criticism"
-- the goal is fundamentally different. science looks for one answer. the purpose of criticism is actually the opposite, to generate multiple meanings in a dialogue with one another. the more fecund an approach in generate debate, the more successful
-
-Ramsey's way forward here is to acknowledge the way "normal" criticism deforms the text. all readings are based on a heuristic approach to the text by definition. text analysis provides another way of deforming or carving a path through a text that isn't necessarily less valid
-- if you say "turn to page 112" or if you say "consider the novel in relation to Jacobin theater," you're deforming the text
-- Wittgenstein: "we see an aspect that further enables discussion and debate"
-- the computer can discover or uncover features in a consistent, rigidly holistic manner
-
-it's not just about reproducability (or shouldn't be). text analysis should also be about hackability
-
-
-introduces padaphysics as a third way between hermaneutic discourse and scientific discourse
-- science of the imaginary
-- not about the terrorism of a unified theory but about the anarchism of an amplified theory
-- padaphysics introduced around the same time as the thought experiment, a technique that responses to scientific crisis (Maxwell's Demon, Einstein flying through space)
-
+** Reading Machines (Ramsey)
 ** Reading Machines (Ramsey)
 civilization advances due to the number of important advances that we can do without thinking about them -Alfred North Whitehead
-in interpreting distant reading data, we need we need hermaneutics
+in interpreting distant reading data, we need hermaneutics
 - "maybe "perhaps eye features prominently in Shakespeare because love enters through the eye"
 
 the lists of words are at once obvious and require imagination to explain the parts of the lists that don't quite make sense to us
@@ -433,6 +462,36 @@ the implication of the semintality detector is interesting
 
 part of the problem with algorithic criticism is how unconcerned the disciplines of the humanities are with methodology
 - "there's a toy in my essay" points out the rhetorical problems with using text analysis results in an essay or arugment, suggests that a doubled model might be necessary
+
+
+
+"the effect is not the immediate apprehension of knowledge, but ... estrangement and defamiliarization"
+
+points to Potter, Gottschald, and Moretti as advocates of a scientific approach to text analysis
+- Ramsey refutes this by pointing out that everything in this debate is treated as a rhetorical object except the data, which is largely unexamined (data fetishism)
+
+hermaneutics isn't concerned with the kind of methodology you see in science, but it is concerned with truth reached through a dialectic process
+- literary criticism isn't about facts. it's about a web of discourse
+
+so how do we deal with the break between the hermaneutic mode and the model of coputation used in text analysis? 
+
+it's tempting to use distant reading methodologies like TF/IDF to confirm or deny readings arrived at through traditional means. but then you have to question TF/IDF...why would it be considered more valid a reading than the traditional one?
+
+"a scientific literary criticism would cease to be criticism"
+- the goal is fundamentally different. science looks for one answer. the purpose of criticism is actually the opposite, to generate multiple meanings in a dialogue with one another. the more fecund an approach in generate debate, the more successful
+
+Ramsey's way forward here is to acknowledge the way "normal" criticism deforms the text. all readings are based on a heuristic approach to the text by definition. text analysis provides another way of deforming or carving a path through a text that isn't necessarily less valid
+- if you say "turn to page 112" or if you say "consider the novel in relation to Jacobin theater," you're deforming the text
+- Wittgenstein: "we see an aspect that further enables discussion and debate"
+- the computer can discover or uncover features in a consistent, rigidly holistic manner
+
+it's not just about reproducability (or shouldn't be). text analysis should also be about hackability
+
+
+introduces padaphysics as a third way between hermaneutic discourse and scientific discourse
+- science of the imaginary
+- not about the terrorism of a unified theory but about the anarchism of an amplified theory
+- padaphysics introduced around the same time as the thought experiment, a technique that responses to scientific crisis (Maxwell's Demon, Einstein flying through space)
 
 
 ** Wealth of Networks (Benkler)
@@ -729,6 +788,8 @@ William Gibson
 
 "it's not the scientists but the word people that have taken them (computers) up"
 
+"world processing" - thinking about 1q84 (murakami)
+
 ** Writing Space (David Bolter)
 we live in the late age of print (similar to late capitalism, like in Jameson
 - that doesn't mean it has declined, but that it has changed
@@ -786,6 +847,11 @@ autographic = reproduction betrays ontology/nature of work
 agrippa (william gibson)
 
 ** comparative textual media (hales and jessica pressman)
+basic argument is that we shouldn't treat print as the ground for comparison or as ahistorical. we should examine print practices as critically as we examine new media or the digital
+
+Dwarven Epigraphs
+- dwarf fortress is sort of an inversion of the padaphysics that Ramsey talks about; instead of doing a reading based on a computationally generated reading, you do an interpretation of a computationally generated narrative
+
 materially-oriented approach
 exploring alternative pratices
 functions at different scales, tries to be a framework that works in many different environment
@@ -847,6 +913,10 @@ means that only a tiny portion of history or occurances makes it into literature
 lavater - facial studies and silhouettes
 rosanne potter - had the view that text analysis should use scientific methods
 jonathan gotchald - wrote "measure for measure" article, suggests that literary criticism is moribund and needs practices from the sciences used with text analysis
+
+
+
+
 
 
 

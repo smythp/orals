@@ -1,3 +1,95 @@
+* discussion points
+
+** the victorian open mind
+- water babies: deal in what you see, not what you do not see. "cannot" is a rash word. 
+- van helsing in dracula
+
+van helsing (philosopher, metaphysician, advanced scientist), has an "absolutely open mind"
+most of the drama in the story comes from the fact that the realization about vampires is unacceptable
+- "that faculty which enables us to believe things which we know to be untrue.' For one, I follow that man. He meant that we shall have an open mind, and not let a little bit of truth check the rush of a big truth, like a small rock does a railway truck."
+
+
+
+
+
+* the water babies (Kingsley)
+
+takes the victorian view of the (scientific) open mind as one that accepts the impossible (fairies)
+
+articulates the problem of induction pretty wellL:
+"a water baby? you never heard of a water baby? perhaps not. ... There are a great many things in the world that you never heard of, and a great many more which nobobdy ever heard of, and many things, too, which nobobdy will ever hear of ... But there are no such things as water babies. How do you know that?"
+- the water baby is like the black swan
+
+even the wisest men (Owen, Darwin, Huxley) would not say that something could not exist
+- only hucksters say "that cannot exist"
+
+cannot is a rash word
+
+there are dozens of things that would be contrary to nature, if we did not see them going on before our eyes all day long
+
+suppose you describe an elephant in detail. you wouldn't be believed. "your elephant is contrary to nature" 
+- people would react as a pacific islander to the prospect of snow and ice
+
+wise men examine what is, and not what is not
+
+if a water animal can change into a land animal (amphibian, dragon fly), why cannot a land animal change into a water animal?
+
+the argument about the plausability of the water babies suggests that the outlandishness of nature implies that there are possibilites and unseen marvels  undiscovered
+
+"degredation is impossible" makes evolutionary biological argument for "degredation" or reverse evolution, and also questions whether degredation is really degredation
+
+when the lord see Tom's "husK," not being a member of the Linean Soceity he assumes he is dead (satirical)
+
+professor doesn't change his theory based on evidence
+
+* Leviathan and the Air Pump (Shapin andSchaffer)
+about the debate that took place around the invention of the air pump that questioned the validity of scientific experiment
+
+Shapin and Shaffer push back against the "self-evident" mode in historical and cultural discourse in which ideas from the present day are unselfreflectively imposed on the past. the idea at stake here is the epistimological validity of empiricism as a source of knowledge
+- breaking out of our cultural framework is a fraught process and can often result in expulsion from a community. therefore we need to play the stranger, not be the stranger. "calculated and inform
+
+Hobbes did not use empiricism, but the "resolutive compositive" method
+
+Hobbes uses a resolutive-compositive method of creating knowledge rather than an empirical
+
+* Knowledge in Transit (Secord)
+rather than science in context, knolwedge in transit
+
+narrative frameworks in history of science need to come to terms with diversity
+- the centrality of processes of movement and transmission are important to ethnography and the history of reading
+
+wants to resist the sobilization of science (Sobel wrote /The Logitude/, which is subtitled /the story of a long genius who .../
+
+says the most common mode now in the history of science is to find a theory or invention and localize it's production
+- the ur-text here is Shapin and Schaffer's /Leviathan and the Air Pump/
+
+* Show Me the Bone
+
+book traces the law of correlations across the long 19th century, from the early 1800s to the first world war
+
+could relate Cuvier's feats of identification to Holmes's feats of induction
+
+there is a two-way communication between science and the general public
+similarly, the relationship between science and literature is two-way
+
+Mitchell, in his own fantastic claims, paraphrased Cuvier as saying "Show me the bone, and I will describe the animal"
+
+Georges Civier = French naturalist who claimed to be able to describe a whole animal from a single feature
+- his Law of Correlation held that a feature of a type (such as a carniverous tooth) demanded certin features to accompany it
+
+Cuvier's theory was not uncontroversial, at first it was rejected by the Anglican establishment, who favored the theories of Lemark as being more conudsive to religion
+
+
+draws on Secord's emphasis on "knowledge in transit" rather than "science in context"
+
+1829 - the pig's foot controversy
+- cuvier had suggested that the presence of a cloven hoof indicated the presence of a ruminant with certainty, but pigs (not ruminants) sometimes leave behind cloven footprints
+- "i date to call nonsense by it's true name, even when uttered by a Cuvier" - Fleming
+
+
+
+
+
 * In Science's Shadow (Patricia Murphy, 2006)
 reads a sampling of texts that show how scientific discourse is used to margninalize women
 
@@ -398,3 +490,8 @@ alison winters, true and not true science
 1859 - /Origin of Species/
 
 1870 - beginning of major victorian expansion
+
+
+* connections to futures of the book
+
+secord's "knowledge in transit" appraoch to large-scale current in the history of science draws on book hisotry and think of science as a form of communication

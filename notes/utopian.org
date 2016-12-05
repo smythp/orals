@@ -1,9 +1,30 @@
+* short outlines 
+** Seven Beauties (C-Ronay)
+- "technoscience"
+- "science fictionality" - seeing the world and testing expereince as if it were science fiction. we view events as if they happen to us.
+- SF has not grown into the world, the world has grown into SF
+- "fictive neology" - new words the seperate the new world from our own. they are "knots of estrangement"
+-"technoscientific sublime" - a response of awe and dread to advances that escape the bonds of their human creators, such as the atom bomb or gene modification
+- science fictional grotesque - collapose of ontological categories producing a response of fascination and hooror. a spectacle of monsterous fusions.
+- the technologiad - moalizes modern technology and contextualizes it
+- SF asks readers to be more expansive and more limited than they already are
+- traces gaps in science fiction (gaps of plausibility and morality)
+- SF posits that anything in the natural world can have an artificial analogue and can therefore be transformed (Accelerando takes this to logical conclusion)
+
+
+** History of Utopian Thought (Herzler)
+ religous utopias
+- examines prophets starting with Amos
+- prophets look for vindication on earth (immanence, or God's presence on earth))
+-  apocalyptists look for vindication in heaven (transcendence), no edification to be found in apocalyptic texts
+- John: seven days of work, day of rest, then infitiy (8th day), each day is 1000 years
+
+the role of the apocalyptist is to predict the overthrow of evil forces and the triumph of godly forces
+- marx could be considered to fit this mold. marx suggests that he is a product of the forces that he is predicting, the future is reaching back (like prophet or apo)
+
+
+
 * history of utopian thought (herzler)
-
-** religious utopias
-examines prophets starting with Amos
-- amos: a society founded on social inequality cannot endure
-
 - the prophets look for Jehovah's vindication on earth. (like imminence)
 - the apocolyptists look for vindication in heaven (like transcendence)
 
@@ -28,7 +49,7 @@ believes that geniuses are those who are less bound by the constraints of their 
 
 utopians feel the Zeitgeist and yet are dominated by the Weltschmertz
 
-* empire (negri)
+* Empire (Hardt and Negri)
 sovereignty has declined, replaced by a new sovereignty
 
 imperialism was the extension of european nation states beyond their own boundaries
