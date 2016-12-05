@@ -51,23 +51,6 @@ ways forward
 - recursive and affective publics by Chris Kelty and Henry Jenkins)
 
 * descriptive notes
-** Graphs, Maps, Trees (Moretti)
-switch to the annals form (thinking about Com. Textual Media and Dwarven Epitaphs)
-
-the fact that novels come out frequently make them that rarest of thigs: a regular novelty
-- inspired standard remediation jermiads (novels make readers lazy, dissolute, insane)
-
-the graph gives a bird's eye vie of the development of the novel. it is its own rhetorical argument, almost self-evident.
-- (i think) graphs are so rhetorically effective that they often go unexamined. (Ramsey says that data is the only piece of rhetoric that is not treated as rhetoric)
-
-moretti says data is idelaly independent of interpretation, but that meanign still needs to be derived from the data. what are the inflection points? 
-
-genres are Janus-like creates with one face turned to history and the other to form
-
-interesting! - compares the emergence of genres to Kuhns' paradigms
-- forms are stable for a time (normal literature, like Kuhns normal science) and then undergo massive change over a short time
-
-
 ** bibliography overview
 
 W. W. Greg
@@ -159,6 +142,22 @@ for Bowlter, hypertext is about topography
 Chartier observed in 1995 that the move from print to screen was larger than the move from manuscript to print because this revolution changes the methods of organization
 
 * book outlines (longer notes below)
+** Graphs, Maps, Trees (Moretti)
+switch to the annals form (thinking about Com. Textual Media and Dwarven Epitaphs)
+
+the fact that novels come out frequently make them that rarest of thigs: a regular novelty
+- inspired standard remediation jermiads (novels make readers lazy, dissolute, insane)
+
+the graph gives a bird's eye vie of the development of the novel. it is its own rhetorical argument, almost self-evident.
+- (i think) graphs are so rhetorically effective that they often go unexamined. (Ramsey says that data is the only piece of rhetoric that is not treated as rhetoric)
+
+moretti says data is idelaly independent of interpretation, but that meanign still needs to be derived from the data. what are the inflection points? 
+
+genres are Janus-like creates with one face turned to history and the other to form
+
+interesting! - compares the emergence of genres to Kuhns' paradigms
+- forms are stable for a time (normal literature, like Kuhns normal science) and then undergo massive change over a short time
+
 ** Planned Obselescence (Fitzpatrick)
 - wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community approach (academics need to be helpful to each other)
 - we need to let go of the idea that each voice is a voice alone
