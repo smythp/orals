@@ -158,6 +158,12 @@ genres are Janus-like creates with one face turned to history and the other to f
 interesting! - compares the emergence of genres to Kuhns' paradigms
 - forms are stable for a time (normal literature, like Kuhns normal science) and then undergo massive change over a short time
 
+** Radient Textuality (McGann)
+hyperwriting - a deployment of the affordances of computation in creating an edition. doesn not necessarily need to use hypertext. His contemporary digital OED didn't use hypertext, but was still hyperwriting as it allowed nonlinear engagement with the text and was freed from the constraints of the codex.
+
+even before a hypertext archive is technically feasible, McGann is thinking about preservation
+- use formats that don't lock you in 
+
 ** Planned Obselescence (Fitzpatrick)
 - wants to move peer review from pre-publication to post-publication, requiring more of a an open-source community approach (academics need to be helpful to each other)
 - we need to let go of the idea that each voice is a voice alone
@@ -217,7 +223,6 @@ Take on King Lear is interesting:
 - Shakespeare has his back foot in the mideval world of role and his front foot in the modern world of jobs
 
 his appraoch is unconstrained and toalizing. Chartier would object to sweeping claims about whole periods (mideval, renaissance, age of electricity.
-
 
 ** Writing Space (Bolter, 2001)
 - Thesis: How does hypertext/new media remediate print?
