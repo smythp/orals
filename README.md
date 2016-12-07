@@ -11,5 +11,5 @@
 ### Notes
 
 [Utopian Studies](notes/utopian.org)  
-[Viclist Science](notes/victorian.org)  
+[Victorian Science](notes/victorian.org)  
 [Futures of the Book](notes/future.org)  
