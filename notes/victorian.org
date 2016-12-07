@@ -12,7 +12,7 @@ Mill's /System of Logic/ - Describes methods for creating new knowledge based on
 
 Law of Correlation -  Advanced by Cuvier. the conception that, based on a point of evidence, one can reconstruct the whole phenomenon or system. "Show me the bone, and I will describe the animal." Holmes's /Book of Life/: "From a drop of water, a logician could infer a Niagra"
 
-Problem of induction - Hume suggested that our beliefs that trends will continue (a form of induction) is not rational, but is still necessary. Karl Popper notes that using induction (i.e., going from evidence to theory) is impossible since theories can never be proven (black swan). Instead, you should attempt to work the other way, trying to deduce problems in your theory (looking for evidence that contradicts it). If you look for a long time and find nothing, you have a solid (though not proven) theory.
+Problem of induction - Hume suggested that our beliefs that trends will continue (a form of induction) is not rational, but is still necessary. Karl Popper (/Conjectures and Refutations/) notes that using induction (i.e., going from evidence to theory) is impossible since theories can never be proven (black swan). Instead, you should attempt to work the other way, trying to deduce problems in your theory (looking for evidence that contradicts it). If you look for a long time and find nothing, you have a solid (though not proven) theory.
 
 types of knowledge in Victorian fiction:
 - Dracula: based on the Humboldian method, they nee a unifying theory of vampirism in order to take down the count. this includes his need for grave soil, which can then be traced by meticulous notes by Mina, and the "Vampiric telegraph," which is derived largely from studying Renfield and then applied to Mina to track the Count
@@ -39,11 +39,11 @@ Brantlinger's /Rule of Darkness/ resists the naive idea that the early 19th cent
 Murphey (/In Science's Shadow/) contends that science was used to marginalize women
 
 ** relationship between literature and science
-Gillaen Beers (Darwin's Plots) shows how Darwin's rhetoric, his literary side, is largely responsible for his success
+Gillaen Beer (Darwin's Plots) shows how Darwin's rhetoric, his literary side, is largely responsible for his success
 
 Anne DeWitt (/Moral Authority/) places a dividing line in the late 19th century when scientists become professionalized. before, they were "men of science," after, they are "scientists." before professionalization, science is well-integrated into novels. she uses the examples of Gaskell and Eliot (I would use Goethe) as novels before professionalization where science is well-integrated and part of the moral landscape. after professinalization, there is a perceived break between science and literature, she considers Wells /Time Machine/ to be representative of the break between science and the wider culture. she doesn't consider /Frankenstein/ or things like /Der Sandmann/ to contradict this trend, since she claims that those novels arent' fully concerned with science, science in those novels is often a stand-in for the concerns of the artist etc. I would point to novels like /Gulliver's Travels/ to show that there was a preexisting trope that science led to moral failing.
 
-Levine weighs in (/Darwin and the Novelists/) in exploring how intermingled science and literature are in the period. big example is /Little Dorrit/ (and actually Trollope). /Little Dorrit/ is a confluence of three Victorian paradigms: evolution, second law of thermodynamics, and natural theology. Not sure this did anything that Beers didn't do better in /Darwin's Plots/
+Levine weighs in (/Darwin and the Novelists/) in exploring how intermingled science and literature are in the period. big example is /Little Dorrit/ (and actually Trollope). /Little Dorrit/ is a confluence of three Victorian paradigms: evolution, second law of thermodynamics, and natural theology. Not sure this did anything that Beer didn't do better in /Darwin's Plots/
 
 
 
@@ -520,7 +520,7 @@ How did mechanisms and conventions of science influence the dieas of victoain sc
 
 literature became a way for victorian scientists to disseminate their ideas (water babies, etc), often quite reductively. Satire could resist scientific reductionism here
 
-* darwin's plots (Gillian Byers)
+* darwin's plots (Gillian Beer)
 the human, everywhere and nowhere in his argument
 reference's Dawkin's memes
 
