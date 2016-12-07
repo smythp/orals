@@ -1,18 +1,177 @@
 * discussion points
 
-** the victorian open mind
-- water babies: deal in what you see, not what you do not see. "cannot" is a rash word. 
-- van helsing in dracula
+** nature of knolwedge
+novum organum - Bacon lays down the fundamentals of the scientific method. emphasis on empiricism and on creating reliable facts and knowledge that can be iterated upson, and (importantly) that have ALL been confirmed with observations and/or experiments
 
-van helsing (philosopher, metaphysician, advanced scientist), has an "absolutely open mind"
-most of the drama in the story comes from the fact that the realization about vampires is unacceptable
-- "that faculty which enables us to believe things which we know to be untrue.' For one, I follow that man. He meant that we shall have an open mind, and not let a little bit of truth check the rush of a big truth, like a small rock does a railway truck."
+resolutive compositive method - the system used by Hobbes in works like Leviathan. Consists of looking at a phenomenon and dialectically breaking it down into its constituant parts (resolving it), then composing it back together in an attempt to better understand it. For example, in his discourse on names, Hobbes divides names into proper names and common names, then he reflects that common names have a property of the universal. He then breaks down the idea of the universal, saying that without the power of names a person cannot form abstraction, such as knowing that what's true about one triangle is true of other trianbles. (The name "trianble" or similar is needed.) Thus he concludes something about names and language, that they allow us to perform abstraction.
+- /Leviathan and the Air Pump/ (SHaefer and Shapin) attempts to resurface Hobbes' approach to knowledge, suggesting that it's not correct stick the "self-evident" mode in the history of science
+
+Humboldtian science - the science that looks at a diverse array of phenomena to find some underlying universal cause. This difference from Baconian science was suggested by Susan Cannon (he/him/his)
+
+Mill's /System of Logic/ - Describes methods for creating new knowledge based on gathered facts, or the art of logic. Suggests that there is an inherent ability in humankind to draw conclusions, but that this faculty can be developed with the methods presented.
+
+Law of Correlation -  Advanced by Cuvier. the conception that, based on a point of evidence, one can reconstruct the whole phenomenon or system. "Show me the bone, and I will describe the animal." Holmes's /Book of Life/: "From a drop of water, a logician could infer a Niagra"
+
+Problem of induction - Hume suggested that our beliefs that trends will continue (a form of induction) is not rational, but is still necessary. Karl Popper notes that using induction (i.e., going from evidence to theory) is impossible since theories can never be proven (black swan). Instead, you should attempt to work the other way, trying to deduce problems in your theory (looking for evidence that contradicts it). If you look for a long time and find nothing, you have a solid (though not proven) theory.
+
+types of knowledge in Victorian fiction:
+- Dracula: based on the Humboldian method, they nee a unifying theory of vampirism in order to take down the count. this includes his need for grave soil, which can then be traced by meticulous notes by Mina, and the "Vampiric telegraph," which is derived largely from studying Renfield and then applied to Mina to track the Count
+- Hound of the Baskervilles: Holmes draws on the Law of Correlation. His entire method is based on Cuvier's system ("show me the bone and I'll describe the animal" as paraphrased by Mitchell), he observes a component of a phenomenon or system and can reproduce the entire phenomenon. 
 
 
 
+The Victorian open mind is a consistent tendency in late 19th-century literature based on an internalization of this problem of induction that leads Victorians to embrace heterodox science (pseudoscience). Possibly a result of the disorientation Schivelbusch points out is the prodcut of new developments in technology (transport and communication in particular)
+
+open mind examples:
+- water babies: deal in what you see, not what you do not see. "cannot" is a rash word
+- Dracula's Van Helsing: "that faculty which enables us to believe things which we know to be untrue.' For one, I follow that man. He meant that we shall have an open mind, and not let a little bit of truth check the rush of a big truth, like a small rock does a railway truck." he has an "absolutely open mind" and is a philosopher, metaphsician, and advanced scientist
+- The Beetle - Sydney Atherton's knowledge of mesmerism is given as a matter of course. Champnell, a man of the world, has already been exposed to an experience with the cult
+- a characteristic of Holmes is his skepticism, he does not have the Victorian open mind. this could be a reason for Doyle killing him off at Reichenbach Falls (the new science of vitalism) and replacing him with figures such as Professor Challenger, based on the archetype of the open mind. Huxley, who Holmes was supposedly based on, actaully directly challenged Cuvier's approach with an inductive argument, giving evidence (pig's feet) that showed that reconstruction is impossible
+- according to google ngrams, the term "open mind" originated in the 19th century and became much more prevelant toward the end of the century. first recorded use is Carlyle in the 1820s
 
 
-* the water babies (Kingsley)
+if there is a choice in Dracula for women between vampirism and the typerwriter (Kitler), then in The Beetle it's the telegraph and the train
+
+** race and type
+Brantlinger's /Rule of Darkness/ resists the naive idea that the early 19th century was not about empire because of the lack of discourse about race and the lack of explicit jingoism until after the uprisings in india and ireland
+- suggests race is a weakness of Marxist analyses of imperialism
+
+Murphey (/In Science's Shadow/) contends that science was used to marginalize women
+
+** relationship between literature and science
+Gillaen Beers (Darwin's Plots) shows how Darwin's rhetoric, his literary side, is largely responsible for his success
+
+Anne DeWitt (/Moral Authority/) places a dividing line in the late 19th century when scientists become professionalized. before, they were "men of science," after, they are "scientists." before professionalization, science is well-integrated into novels. she uses the examples of Gaskell and Eliot (I would use Goethe) as novels before professionalization where science is well-integrated and part of the moral landscape. after professinalization, there is a perceived break between science and literature, she considers Wells /Time Machine/ to be representative of the break between science and the wider culture. she doesn't consider /Frankenstein/ or things like /Der Sandmann/ to contradict this trend, since she claims that those novels arent' fully concerned with science, science in those novels is often a stand-in for the concerns of the artist etc. I would point to novels like /Gulliver's Travels/ to show that there was a preexisting trope that science led to moral failing.
+
+Levine weighs in (/Darwin and the Novelists/) in exploring how intermingled science and literature are in the period. big example is /Little Dorrit/ (and actually Trollope). /Little Dorrit/ is a confluence of three Victorian paradigms: evolution, second law of thermodynamics, and natural theology. Not sure this did anything that Beers didn't do better in /Darwin's Plots/
+
+
+
+  
+* A System of Logic (John Stuart Mill)
+logic is the science of reason, and also an art founded on that science
+
+logic as commonly used goes well beyond working with syllogisms or reasoning from the general to particulars. it also reflects a command of premises, that the logician's knowledge is under their command for argumentative use
+
+"the science which treats of the operations of the human understanding of the pursuit of truth"
+
+logic is the guidance of one's own truths
+rhetoric is concerned with conveying those truths to others
+
+some truths are known directly (bodily sensations, intuition). some come to us through the mediation of other truths
+- there is no logic for the fact that we see what we see and we feel what we feel
+- tricks of perspective show that our senses, which true of themselves in a sense, are not necessarily accurate reflections of the world
+
+questions of what is directly apprehended and what is inferred based on other truths are a question of metaphysics
+
+logic must be confined to questions about conclusions based on truths previously known, not about intuitive or direct truths
+- logic is not the science of belief, but the science of proof based on evidence
+
+"logic doesn't find evidience, but determines whether it is found"
+- logic doesn't give proofs, but tells you want makes proofs
+
+logic is /ars artium/, the science of science
+
+logic is concerned not with data, but with the relations between data that need to exist to produce conclusions
+
+mankind judged of evidence before logic was a science, and created great mechanical works before understanding the laws of mechanics
+- however, there are limits to what mechanics can do without the laws of mechanics, and also what thinkers can do without laws of logic
+
+logic includes the operation of naming, since language is an instrument of thought
+- this is interesting in light of J. L. Austin's /How to Do Things with Words/, which takes as its method the decomposition of common words and phrases to get at the underlying principles of our thought
+
+what the art of logic doesn't need for its practical ends, it leaves to metaphysics
+
+logic has no interest in ulterior (that is, metaphyiscal) analysis
+
+nothing in the book is useful for application to areas of knowledge or speculation that are yet undecided. (basically, unless you can agree on some set of facts, you can't use the principles here)
+
+
+names, according to Hobbes, are sounds we assign to some thought we have that, when used, can inspire that thought in others
+
+Five Methods
+- Direct method of agreement: If two or more phenomena have a circumstance in common, the circumstance is either the cause or the effect of the phenomenon
+- Joint method of agreement or difference (application of the above)
+- Method of residue: If, after removing the causes and effect relationships that are known to apply in a situation, there is a cause and an effect left, the remaining cause can be assumed to relate the the effect
+- Method of concomitant variations: If some circumstance is known to vary in relative proprtion to some other circumstance, then the one circumstance is the cause or effect of the other. (i.e., if there levels of toxicity of water increase concomitatnt to lead, then the presence of lead can be known to be the cause)
+
+* Darwin and the Novelists (Levine)
+science tries to explain reality, the novel tries to depict it, this book focuses on the mingling of these methods
+- tries to show science nad art fusing
+
+Little Dorrit embodies the tension between three forces in Victorian science: natural theology, evolution and degredation (the second law of thermodynamics)
+- most religious of Dicken's novel
+- explored unreddmed nature of society
+- breakdown of the self
+
+levine talks about Mansfield park
+
+* Moral Authority: Men of Science and the Victorian Novel (Anne DeWitt)* 
+Lyle believed that science  was morally beneficial, that it should be the cornerstone of a liberal education
+
+Lyle was attempting to professionalize the study of nature
+
+the novel became a locus of examining whether this interaction with science and morality was successful
+
+before professionalization, science was integrated into the novel. after professionalization, science was considered to be something apart and more morally suspect
+
+the science of Darwin (pre-professionalization) shared a common language with a wider Victorian public, which was part of Darwin's success
+- common language allowed ideas to move rapidly between science and literature
+
+in the Victorian period, science and literature were intellectual projects in common, scientists using literary methaphors and quotations and writers using scientific ideas
+
+two narratives: moral excellence leading to scientific prowess, and science leading to moral excellence. /moral authority/ primarily concerned wth the latter (science leading to morality)
+
+Barton observes that the promient term for Victorian scientists were "man of science" rather than "scientist," which connoted narrow professionalism
+
+H. G. Wells felt that science led to moral narrowness
+
+the female gothic is central to tales of moral failure in science. the female trespasses into a domain that she should not and is punished for it (frankenstein)
+
+isn't really concerned with the contradition that novels such as Frankenstien and The Sandman propose, since these gothic novels are often not concerned with science /qua/ science
+- i would disagree. there are other novels like Gulliver's Travels that show that there is a trope that science leads to moral imbecility
+
+* "Sherlock Holmes, Order, and the Late Victorian Mind" (Christopher Clausen)
+the Holmes canon covers so much ground that it offers insight into evolving attitudes
+
+beginning: "I am a brain, watson...all the rest of me is a mere appendix"
+
+the holmes stories are published over such a long period of time that they can show shifting victorian attitudes
+
+Holmes reflects a Victorian terror of the domestic crime: "the butler did it" was a present fear based on class conflict
+- Holmes is the guardian of a threatened society
+
+World War I put an end to the feeling that cool reason could prevail
+- attributes the decline in quality of the post-1914 tales to this
+
+* Evolution: The History of an Idea (Peter Bowler)
+Darwin was original, there wasn't just "evolution in the air"
+
+difficult to see Darwin's originality since many of his revolutionary ideas now seem obvious
+
+Lamark's 1809 theory (soft evolution, the tendency toward greater complexity, spontaneous generation) had been widely rejected
+
+by the 1850s, some naturalists, like Herbert Spenser, were approaching an idea of a natural progression over time (and of course Wallace famously articulated evolution around this time)
+
+Darwin's original insights:
+- work of the animal breeders throws light on natural selection
+- went against the teleological view (the word itself, evolution, refers to the unrolling of a scroll, suggesting inevitability)
+- the undirectedness of indiviaul varients in a population seemed to go against the process being directed by a benevolent creator
+- species are no longer to be considered idealized types, but rather individuals subject to variation
+- tree of life very radical. was radical taxonomically (implications for how species are formed into groups)
+- the struggle for existance (no benevolant god?)
+
+the tree was revoltuionary. contempoary theores included:
+- Sharp Macleay's quinary or circular system in which each genus has exactly 5 species (???)
+- /Vestiges/ (Chambers) has an orderly system in which species advance along predetermined parallel lines within each family
+- these only make sens eif you imagine nature as the product of a divine plan
+
+Darwin picked up "biogeographical insights" on the Beagule voyage. the Galpagos was almost like a perfect experiment in forking descent based on geographic barriers
+
+Adrian Desmond and James Moore proposed that Darwin moved toward evolution and a common ancestor because he hated slavery
+- all races come from common ancestor
+
+* The Water Babies (Charles Kingsley)
 
 takes the victorian view of the (scientific) open mind as one that accepts the impossible (fairies)
 
@@ -42,7 +201,7 @@ when the lord see Tom's "husK," not being a member of the Linean Soceity he assu
 
 professor doesn't change his theory based on evidence
 
-* Leviathan and the Air Pump (Shapin andSchaffer)
+* Leviathan and the Air Pump (Shapin and Schaffer)
 about the debate that took place around the invention of the air pump that questioned the validity of scientific experiment
 
 Shapin and Shaffer push back against the "self-evident" mode in historical and cultural discourse in which ideas from the present day are unselfreflectively imposed on the past. the idea at stake here is the epistimological validity of empiricism as a source of knowledge
@@ -58,13 +217,34 @@ rather than science in context, knolwedge in transit
 narrative frameworks in history of science need to come to terms with diversity
 - the centrality of processes of movement and transmission are important to ethnography and the history of reading
 
-wants to resist the sobilization of science (Sobel wrote /The Logitude/, which is subtitled /the story of a long genius who .../
+wants to resist the sobilization of science (Sobel wrote /The Longitude/, which is subtitled /the story of a lone genius who .../
 
 says the most common mode now in the history of science is to find a theory or invention and localize it's production
 - the ur-text here is Shapin and Schaffer's /Leviathan and the Air Pump/
 
-* Show Me the Bone
+resists "unconceptualized boundaries," arbitrary distinctions between, say, victorian and modernist writing
 
+resists the rise of narrative in the history of science, including science in context (lightman) and /Leviathan and the Air Pump/ (Schaffer and Shapin)
+
+"science is situated knowledge" Donna Haraway
+
+imiplies tthat putting an idea or a piece of science in its context is not in itself a productive work
+- the lesson this teaches is that knowledge is ineluctably local
+- this localizing can lead to parochial antequarianism
+
+the more local science becomes, the more difficult it becomes to see how it travels
+
+takes from reader response in wishing to analyze the communities of reception that read, for example, Faraday. we know a lot about his lectures and his influence on the royal society, not much on his impact on the wider society
+- how were his publications made available in other countries
+- we have no sense about how his reputation was actually developed
+
+the narrative mode draws us toward teleology
+
+likes Bruno Latur and actor network theory, but thinks his model is too abstract for historians
+- hard to give equal agency to humans and nonhumans
+- at least makes nonhuman networks more open to historical analysis
+
+* Show Me the Bone (Gowan Dawson)
 book traces the law of correlations across the long 19th century, from the early 1800s to the first world war
 
 could relate Cuvier's feats of identification to Holmes's feats of induction
@@ -85,10 +265,6 @@ draws on Secord's emphasis on "knowledge in transit" rather than "science in con
 1829 - the pig's foot controversy
 - cuvier had suggested that the presence of a cloven hoof indicated the presence of a ruminant with certainty, but pigs (not ruminants) sometimes leave behind cloven footprints
 - "i date to call nonsense by it's true name, even when uttered by a Cuvier" - Fleming
-
-
-
-
 
 * In Science's Shadow (Patricia Murphy, 2006)
 reads a sampling of texts that show how scientific discourse is used to margninalize women
@@ -280,11 +456,11 @@ Murray: Northumberland Street Affair
 - according to Mrs. Murray, Roberts had lent her money and implied that she wouldn't have to pay it back if she did the obvious--she turned that down but couldn't pay anything but the interest
 
 * The Beetle
+champnell is a "confidental agent" love it
+
 Robert Holt is susceptible because he is down on his luck, if he had been wearing proper clothes he would have been more resistant to mesmerism
 
 It was as if some strong magnetic current had been switched on to me through the window to draw me into the room.
-
-
 
  'Pray, sir, are you a magician?'
 He replied to my question with another.
@@ -344,13 +520,9 @@ How did mechanisms and conventions of science influence the dieas of victoain sc
 
 literature became a way for victorian scientists to disseminate their ideas (water babies, etc), often quite reductively. Satire could resist scientific reductionism here
 
-* darwin's plots (Gillian Beer)
+* darwin's plots (Gillian Byers)
 the human, everywhere and nowhere in his argument
 reference's Dawkin's memes
-
-Darwin's Dangerous Idea (book): the algorithmi
-c level is the level that best accounts for the ... shape of the wing of the eagle
-- cats can be said to make mice
 
 Darwin produces different narratives
 - sociobiology, genetic determinism
@@ -364,7 +536,6 @@ Darwin's plots are
 darwin's non-technical language allowed his ideas to be adopted
 
 the origin "included more than its maker knew, despite all he did know"
-
 
 darwin wanted to know if hybridism produces sterility
 
@@ -386,8 +557,6 @@ major theories tax, aff
 
 in 1850s and 1860s, evolution was called the "development hypothesis"
 
-
-
 "if" theory > description > cosmology > quotidian techniques and procedures
 
 reading the Origin involves you in a narrative experience, subjective and literary
@@ -406,6 +575,12 @@ one of the trends in reading Darwin is to try to put man back in the center of i
 
 origin of species = work of biology
 desacent of man = work of anthropology
+
+* Darwin's Dangerous Idea (Dennett)
+there is no going back from the (dangerous) idea that the desgined doesn't need a designer
+
+the algorithmic level is the level that best accounts for the ... shape of the wing of the eagle
+- cats can be said to make mice
 
 * time lord
 sir sanford fleming - Scottish transplant to Canada
@@ -467,9 +642,15 @@ Mina's hypnotic messages from the Count like telegraphy
 Attacked ideological neutrality. Wrote /Human Selection/ and /Human Progress/. For him, social progressionism and biological progressionism went hand-in-hand. Advocated for socialism and feminism.
 
 
+* other useful
+
+Sharon Marcus and Stephen Best - surface reading, goes against "symptomatic reading" that assumes that insights area always hidden below the surface
+
 * questions
 What does objectivity mean in a scientific context? How does change in scientific theories occur?
 boundaries in science? between science and politics, science and religion, science and pseudoscience, ex- pert and nonexpert, orthodox and unorthodox, the material and the tran- scendent, the material and the psychological.
+* beetle
+"that humorous professor of hanky-panky"
 
 
 * look into
