@@ -1,10 +1,15 @@
 # Orals
 
-### [Rationale](rationale.org)
+[Rationale](rationale.org)
 
-### [Futures of the Book](future_book.org)
+### Lists
 
-### [Victorian Science](viclist.org)
+[Utopian Studies](utopian.org)  
+[Victorian Science](viclist.org)  
+[Futures of the Book](future_book.org)  
 
-### [Utopian Studies](utopian.org)
+### Notes
 
+[Utopian Studies](notes/utopian.org)  
+[Viclist Science](notes/victorian.org)  
+[Futures of the Book](notes/future.org)  
