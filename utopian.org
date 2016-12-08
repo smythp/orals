@@ -2,69 +2,36 @@
 #+OPTIONS: num:nil 
 
 * Utopian Studies
-Baccolini, Raffaella. /Dark Horizons./
-
-Bacon, Francis. /New Atlantis./
-
-Bloch, Ernst. /The Principle of Hope./
-
-Bould, Mark and China Miéville. /Red Planets: Marxism and Science Fiction./
-
-Davis, J.C. /Utopia and the Ideal Society: A Study of English Utopian Writing 1516-1700./
-
-Davis, Laurence. /Anarchism and Utopianism. ./
-
-Edelman, Lee. /No Future: Queer Theory and the Death Drive/
-
-Hardt, Michael, and Antonio Negri. /Empire./
-
-Harvey, David. /Spaces of Hope./
-
-Hertzler, Joyce. /History of Utopian Thought./
-
-Jameson, Frederic. /Archologies of the Future./
-
-Kumar, Krishan. /Utopia and Anti-Utopia in Modern Times../
-
-Lavander, Isiah./Race in American Science Fiction./
-
-London, Jack. /The Iron Heel./
-
-McBride, Keally. /Collective Dreams: Political Imagination and Community. ./
-
-More, Thomas. /Utopia./
-
-Morton, Timothy/Ecology Without Nature: Rethinking Environmental Aesthetics ./
-
-Moylan, Tom. /Scraps of the Untainted Sky./
-
-Nassa, Anthony. ./The Spirit of Utopia/
-
-Piercy, Marge. /Woman at the Edge of Time./
-
-Pordzik, Ralph. /The Quest for the Postcolonial Utopia./
-
-Roberts, Adam. /New Critical Idiom./
-
-Sargent, Lyman Tower. /Three Faces of Utopianism Revisited/
-
-Schaer, Roland, Gregory Claeys, and Lyman Tower Sargent. /Utopia: The Search for the Ideal Society in the Western World./ 
-
-Stross, Charles. /Accelerando./
-
-Suvin, Darko. /Metamorphoses of Science Fiction./
-
-Swift, Jonathan. /Gulliver's Travels./
-
-Tom Moylan. /Demand the Impossible: Science Fiction and the Utopian Imagination./
-
-Williams, Raymond. /Tenses of Imagination./
-
-William, Morris. /News from Nowhere./
-
-
-
-
-
-
-
+Baccolini, Raffaella. /Dark Horizons./ (2003)
+Bacon, Francis. /New Atlantis./ (1624-1626)
+Bellamy, Edward. /Looking Backward./ (1888)
+Bloch, Ernst. /The Principle of Hope./ (1954)
+Bould, Mark and China Miéville. /Red Planets: Marxism and Science Fiction./ (2009)
+Davis, J.C. /Utopia and the Ideal Society: A Study of English Utopian Writing 1516-1700./ (1983)
+Davis, Laurence. /Anarchism and Utopianism. ./ (2010)
+Edelman, Lee. /No Future: Queer Theory and the Death Drive/ (2004)
+Hardt, Michael, and Antonio Negri. /Empire./ (200)
+Harvey, David. /Spaces of Hope./ (2000)
+Hertzler, Joyce. /History of Utopian Thought./ (1965)
+Jameson, Frederic. /Archeologies of the Future./ (2005)
+Kumar, Krishan. /Utopia and Anti-Utopia in Modern Times../ (1991)
+Lavander, Isiah./Race in American Science Fiction./ (2011)
+London, Jack. /The Iron Heel./ (1908)
+McBride, Keally. /Collective Dreams: Political Imagination and Community. ./ (2005)
+More, Thomas. /Utopia./ (1516)
+Morton, Timothy/Ecology Without Nature: Rethinking Environmental Aesthetics ./ (2009)
+Moylan, Tom. /Scraps of the Untainted Sky./ (2000)
+Muñoz, José Esteban. /Cruising Utopia: The Then and There of Queer Futurity/. (2009)
+Nassa, Anthony. ./The Spirit of Utopia/ (1923)
+Piercy, Marge. /Woman at the Edge of Time./ (1976)
+Pordzik, Ralph. /The Quest for the Postcolonial Utopia./ (2001)
+Rawson, Claude. /God, Gulliver, and Genocide./ (2001)
+Roberts, Adam. /Science Fiction: New Critical Idiom/ (2000)
+Sargent, Lyman Tower. /Three Faces of Utopianism Revisited/ (1994)
+Schaer, Roland, Gregory Claeys, and Lyman Tower Sargent. /Utopia: The Search for the Ideal Society in the Western World./  (2001)
+Stross, Charles. /Accelerando./ (2005)
+Suvin, Darko. /Metamorphoses of Science Fiction./ (1979)
+Swift, Jonathan. /Gulliver's Travels./ (1726)
+Tom Moylan. /Demand the Impossible: Science Fiction and the Utopian Imagination./ (2014)
+William, Morris. /News from Nowhere./ (1890)
+Williams, Raymond. /Tenses of Imagination./ (2010)

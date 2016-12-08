@@ -24,6 +24,19 @@ the role of the apocalyptist is to predict the overthrow of evil forces and the 
 
 
 
+
+* Definitions of Science Fiction
+Darko Suven - SF is characterized by cognitve estrangement represented by a novum
+
+Broderick - science fiction is defined by use metanym, i.e. each characteristic represents a different kind of reflected world. spaceships = space opera. SF is also concerned with object rather than subject
+
+Samuel R. Delany - SF is a symbolic genre, it deploys a wide variety of material symbols that each have their own associations
+
+SF is about distance? has to be close enough but not too close to realism, based on the novum.
+
+the dialating door
+
+
 * history of utopian thought (herzler)
 - the prophets look for Jehovah's vindication on earth. (like imminence)
 - the apocolyptists look for vindication in heaven (like transcendence)
@@ -48,6 +61,16 @@ utopians are critics of their age
 believes that geniuses are those who are less bound by the constraints of their time
 
 utopians feel the Zeitgeist and yet are dominated by the Weltschmertz
+
+
+
+
+* Utopia and the Ideal Society (Davis)
+concerned with the utopian early modern fixation on idleness, says works like more's utopia and burton (/Anatomy of Melancoly/) were partly reponsible for the development of bureacracy that made humanity part of a human machine
+
+bacon imagined a utopia based on plenty from industry
+
+most utopians after more focus on self-moderation
 
 * Empire (Hardt and Negri)
 sovereignty has declined, replaced by a new sovereignty
@@ -279,18 +302,18 @@ People have always dreamed of this,ndreamed of the better life that might be pos
 
 this world is a world of repetition  or of the great Time-and-Again; it is a palace of fateful events, as Leibniz called it without breaking out of it. Occurrence becomes history, knowledge re-remembering, celebration the observance of something that has been. This is how all previous philosophers went about it, with their form, idea or substance posited as being finished, even postulating Kant, even dialectical Hegel. In this way physical and metaphysical need spoiled its appetite, in particular its paths
 
-* Tenses of Imagination (essays by Raymond Williams) 
-Three kinds of science fiction:
-Space Anthropology, Utopia, and Putropia
-Prefers space anthropology, more uniquely human
-Putropia, a breaking down of a utopia
-
 * News from Nowhere (William Morris)
 Anarchist utopia
 Labor is voluntary
 Fear of a work shortage, i.e. work is so pleasureable that people fear they will run short of it
 parliment used to store manure
 no politics (one-page chapters on "no politics")
+
+* Tenses of Imagination (essays by Raymond Williams) 
+Three kinds of science fiction:
+Space Anthropology, Utopia, and Putropia
+Prefers space anthropology, more uniquely human
+Putropia, a breaking down of a utopia
 
 There are four characteristic types of alternative reality, he argues: the 
 ***  paradise or hell
