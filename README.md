@@ -7,6 +7,7 @@
 [Utopian Studies](utopian.org)  
 [Victorian Science](viclist.org)  
 [Futures of the Book](future_book.org)  
+[Assembled lists](lists.md)  
 
 ### Notes
 
