@@ -1,6 +1,6 @@
 # Utopian Studies
 
-<p class="verse">
+
 Baccolini, Raffaella. *Dark Horizons.* (2003)<br  />
 Bacon, Francis. *New Atlantis.* (1624-1626)<br  />
 Bellamy, Edward. *Looking Backward.* (1888)<br  />
@@ -35,11 +35,11 @@ Swift, Jonathan. *Gulliver's Travels.* (1726)<br  />
 Tom Moylan. *Demand the Impossible: Science Fiction and the Utopian Imagination.* (2014)<br  />
 William, Morris. *News from Nowhere.* (1890)<br  />
 Williams, Raymond. *Tenses of Imagination.* (2010)<br  />
-</p>
+
 
 # Victorian Science
 
-<p class="verse">
+
 Alioto, Anthony. *A History of Western Science*. (1992)<br  />
 Altick, Richard. *Deadly encounters: Two Victorian Sensations.* (1986)<br  />
 Beer, Gillian. *Darwin's Plots*. (2009)<br  />
@@ -78,7 +78,7 @@ Stoker, Bram. *Dracula*. (1886)<br  />
 
 # Futures of the Book
 
-<p class="verse">
+
 Austin,  J. L. *How to Do Things with Words*. (presented 1955, published 1962)<br  />
 Bayard, Pierre. *How to Talk About Books You Haven't Read*. (2010)<br  />
 Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction." (1936)<br  />
@@ -117,4 +117,4 @@ Stephen Ramsay. *Reading Machines: Toward an Algorithmic Criticism.* (2011)<br  
 Underwood, Ted. The Literary Uses of High-Dimensional Space." (2015)<br  />
 Walter Ong, *Orality and Literacy: The Technologizing of the Word.* (1982)<br  />
 Wolfgang Ernst. *Digital Memory and the Archive.* (2012)<br  />
-</p>
+
